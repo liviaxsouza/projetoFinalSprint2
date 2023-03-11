@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
     border-left: 5px black solid;
     padding-left: 5px;
@@ -18,10 +22,19 @@ h1 {
 box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
     width: 450px;
     height: 450px;
+    background-color: #D0E8F4;
 }
 
 #article_esportes {
     justify-content: space-between;
     text-align: center;
     display: flex;
+}
+
+#img_futebol {
+    width: 350px;
+}
+
+#img_volei {
+    width: 355px;
 }
