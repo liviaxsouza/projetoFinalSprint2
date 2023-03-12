@@ -74,3 +74,14 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 .texts_artigos {
     padding-left: 10px;
 }
+
+.sections_esportes:hover {
+    transform: scale(1.1);
+    transition: 2s;
+}
+
+.sections_artigos:hover {
+    transform: scale(1.1);
+    transition: 2s;
+}
+
