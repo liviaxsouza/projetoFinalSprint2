@@ -37,3 +37,8 @@ body {
     box-shadow: 10px;
     display: flex;
 }
+
+#div_sobrenos {
+    display: flex;
+    padding: 10px;
+}
