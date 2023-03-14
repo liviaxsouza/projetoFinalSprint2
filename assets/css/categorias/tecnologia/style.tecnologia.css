@@ -43,6 +43,8 @@ h1 {
 
 .texts_artigos {
     padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .sections_tecnologia:hover {
@@ -125,4 +127,10 @@ h1 {
 a {
     text-decoration: none;
     color: black;
+}
+
+.paragrafo_tecnologia {
+    padding-left: 10px;
+    text-align: justify;
+    padding-right: 10px;
 }
