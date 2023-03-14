@@ -29,12 +29,16 @@ h1 {
     margin-bottom:-5px;
 }
 
-#button {
+#Enviar{
     text-align: center;
-    width: 50px;
-    border-radius: 10px;
-    margin-bottom: 5px;
-    
+    width: 60px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(123, 175, 214);
+    border: white;
+    margin: auto;
+    margin-top: 5px;
+    color: white;
 }
 
 input {
@@ -48,3 +52,4 @@ form {
     width: 30%;
     margin-top: 80px;
 }
+
