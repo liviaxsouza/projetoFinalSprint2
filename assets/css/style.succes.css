@@ -9,13 +9,13 @@ img {
 
 h1 {
     text-align: center;
-    color: darkgoldenrod;
+    color: #32425b
     font-family: 'Times New Roman', Times, serif;
-    margin-top: 0%;
+    margin-top: 20px;
 }
 
 body {
-    background-color: rgb(95, 65, 44);
+    background-color: #7bafd6;
     margin: 0;
 }
 
@@ -30,4 +30,17 @@ button{
 
 #botão_1{
     background-color: rgb(241, 241, 241);
+}
+
+#footer{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-bottom: -5px;
+}
+
+header{
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
