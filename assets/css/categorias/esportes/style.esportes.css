@@ -1,14 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #D0E8F4;
+    background-color: #32425B;
 }
 
 h1 {
-    border-left: 5px #32425B solid;
+    border-left: 5px #ffffff solid;
     padding-left: 15px;
     margin-left: 10px;
     font-size: 60px;
-    color: #32425B;
+    color: #ffffff;
 }
 
 .titles_esportes {
@@ -24,7 +24,7 @@ h1 {
     -webkit-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
-    width: 440px;
+    width: 95%;
     height: 470px;
     background-color: white;
     margin-left: 15px;
@@ -86,18 +86,21 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 }
 
 #busca {
-    background-color: #32425B;
+    background-color: #ffffff;
     border: solid 2px #768AA5;
     border-radius: 5px;
-    width: 300px;
+    width: 500px;
     height: 40px;
+    margin-left: 650px;
+    margin-top: 50px;
 }
 
 #text_busca {
     float: left;
     background-color: transparent;
     padding-left: 5px;
-    font-size: 18px;
+    padding-top: 5px;
+    font-size: 15px;
     border: none;
     width: 191px;
     height: 32px;
@@ -106,8 +109,17 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 #button_busca {
     border: none;
     float: left;
-    width: 70px;
-    height: 32px;
+    width: 72px;
+    height: 40px;
     border-radius: 0 7px 7px 0;
     font-weight: bold;
+    padding-left: 5px;
+}
+
+#title_busca {
+    display: flex;
+} 
+
+#busca img {
+    float: left;
 }
