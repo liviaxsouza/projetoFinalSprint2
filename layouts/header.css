@@ -52,6 +52,15 @@ header{
     border: 5px;
 }
 
+.anav_4 {
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    padding: 10px;
+    border: 5px;
+}
+
 nav ul {
     list-style: none;
     margin: 0%;
@@ -63,3 +72,30 @@ nav li{
     margin-right: 30px;
     margin-top: 30px;
 }
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.anav_1:hover {
+    background-color: aliceblue;
+    transition: 1s;
+}
+
+.anav_2:hover {
+    background-color: aliceblue;
+    transition: 1s;
+}
+
+.anav_3:hover {
+    background-color: aliceblue;
+    transition: 1s;
+}
+
+.anav_4:hover {
+    background-color: aliceblue;
+    transition: 1s;
+}
+
