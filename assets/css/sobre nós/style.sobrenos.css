@@ -42,3 +42,16 @@ body {
     display: flex;
     padding: 10px;
 }
+
+.section_sobrenos1 {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+
