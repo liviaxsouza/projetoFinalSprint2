@@ -8,8 +8,12 @@ h1 {
     border-left: 5px #ffffff solid;
     padding-left: 15px;
     margin-left: 10px;
-    font-size: 30px;
+    font-size: 49.8px;
     color: #ffffff;
+}
+
+.titles_artigos {
+    
 }
 
 .titles_tecnologia {
@@ -17,7 +21,7 @@ h1 {
     padding-top: 10px;
     padding-left: 5px;
     margin-left: 10px;
-    font-size: 35px;
+    font-size: 30px;
     color: #4b6082;
 }
 
@@ -35,6 +39,7 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 
 .texts_artigos {
     padding-left: 10px;
+
 }
 
 .sections_tecnologia:hover {
