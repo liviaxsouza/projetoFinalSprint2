@@ -4,7 +4,7 @@ img {
 
 #section_img {
     text-align: center;
-    margin-top: 115px;
+    margin-top: 50px;
 }
 
 h1 {
@@ -31,19 +31,6 @@ button {
     background-color: rgb(241, 241, 241);
 }
 
-#footer {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    margin-bottom: -5px;
-}
-
-#header {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
-
 #div_01 {
     animation-name: spin;
     animation-duration: 1s;
@@ -59,4 +46,13 @@ button {
     to {
         transform: rotate(360deg);
     }
+}
+
+#header {
+    width: 100%;
+    height: 200px;
+}
+
+#footer {
+    width: 100%;
 }
