@@ -33,3 +33,15 @@ h1 {
     border-radius: 10px;
     margin-bottom: 5px;
 }
+
+input {
+    margin-bottom: 5px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 30%;
+    margin-top: 80px;
+}
