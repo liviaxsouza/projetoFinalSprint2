@@ -27,3 +27,7 @@ button{
     color: black;
     border-radius: 10px;
 }
+
+#botão_1{
+    background-color: rgb(241, 241, 241);
+}
