@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #203f6f;
+    background-color: #578bd8;
     margin: 0;
 }
 
@@ -8,7 +8,7 @@ h1 {
     border-left: 5px #ffffff solid;
     padding-left: 15px;
     margin-left: 10px;
-    font-size: 60px;
+    font-size: 30px;
     color: #ffffff;
 }
 
