@@ -82,21 +82,26 @@ nav {
 .anav_1:hover {
     background-color:  rgb(92, 121, 146);
     transition: 1s;
+    border-radius: 10px;
+
 }
 
 .anav_2:hover {
     background-color: rgb(92, 121, 146);
     transition: 1s;
+    border-radius: 10px;
 }
 
 .anav_3:hover {
     background-color: rgb(92, 121, 146);
     transition: 1s;
+    border-radius: 10px;
 }
 
 .anav_4:hover {
     background-color: rgb(92, 121, 146);
     transition: 1s;
+    border-radius: 10px;
 }
 
 body {
