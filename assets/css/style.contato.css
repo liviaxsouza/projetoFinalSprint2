@@ -9,7 +9,7 @@ body{
     text-align: center;
     display: flex;
     flex-direction: column;
-    
+    margin: 0;
    
 }
 
@@ -34,7 +34,7 @@ h1 {
     width: 60px;
     border-radius: 20px;
     margin-bottom: 10px;
-    background-color: rgb(123, 175, 214);
+    background-color: #7bafd6;
     border: white;
     margin: auto;
     margin-top: 5px;
@@ -53,3 +53,10 @@ form {
     margin-top: 80px;
 }
 
+#footer {
+    
+    width: 116.4%;
+    margin-left: -90.1px;
+    margin-bottom: -200px;
+    margin-top: 51px;
+}
