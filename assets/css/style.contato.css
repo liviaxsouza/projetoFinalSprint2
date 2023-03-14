@@ -10,6 +10,7 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
+    padding: 0;
    
 }
 
@@ -58,4 +59,10 @@ form {
     margin-left: -90.1px;
     margin-bottom: -200px;
     margin-top: 51px;
+}
+
+#header {
+    width: 100%;
+    height: 250px;
+    margin-top: 0;
 }
