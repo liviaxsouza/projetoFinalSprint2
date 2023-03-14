@@ -54,4 +54,7 @@ body {
     display: flex;
 }
 
-
+#div_sobrenos1 {
+    display: flex;
+    padding: 10px;
+}
