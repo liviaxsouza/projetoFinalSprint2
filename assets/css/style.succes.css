@@ -18,3 +18,7 @@ body{
     background-color:  rgb(95,65,44);
     margin: 0;
 }
+
+form{
+    text-align: center;
+}
