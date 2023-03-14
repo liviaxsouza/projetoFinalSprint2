@@ -12,7 +12,7 @@ h1 {
     color: #ffffff;
 }
 
-.titles_esportes {
+.titles_musica {
     border-left: 5px #32425B solid;
     padding-top: 10px;
     padding-left: 5px;
@@ -21,7 +21,7 @@ h1 {
     color: #32425B;
 }
 
-.sections_esportes {
+.sections_musica {
     -webkit-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
@@ -33,21 +33,21 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
     border-radius: 8px;
 }
 
-#article_esportes {
+#article_musica {
     justify-content: space-between;
     text-align: center;
     display: flex;
 }
 
-#img_futebol {
+#img_musica {
     width: 350px;
 }
 
-#img_volei {
+#img_musica1 {
     width: 355px;
 }
 
-#img_basquete {
+#img_musica2 {
     width: 365px;
 }
 
