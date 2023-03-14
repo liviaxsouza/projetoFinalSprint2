@@ -78,3 +78,12 @@ body {
     display: flex;
     text-align: center;
 }
+
+.text_membros {
+    text-align: justify;
+    text-align: center;
+}
+
+#title_membros {
+    font-size: 30px;
+}
