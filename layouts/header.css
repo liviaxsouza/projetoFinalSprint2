@@ -2,7 +2,6 @@ header{
     background-color:#32425B;
     height: 100% ;
     width: 100%;
-    position: fixed;
     margin: 0;
     padding-top: 5px;
     padding-bottom: 15px;
@@ -28,3 +27,27 @@ header{
 
 }
 
+.anav_1 {
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    padding: 10px;
+    border: 5px;
+}
+.anav_2 {
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    padding: 10px;
+    border: 5px;
+}
+.anav_3{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    padding: 10px;
+    border: 5px;
+}
