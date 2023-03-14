@@ -11,3 +11,12 @@ h1 {
     font-size: 60px;
     color: #ffffff;
 }
+
+.titles_esportes {
+    border-left: 5px #32425B solid;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 10px;
+    font-size: 35px;
+    color: #4b6082;
+}
