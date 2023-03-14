@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #32425B;
+    background-color: #0e1a2c;
+    margin: 0;
 }
 
 h1 {
@@ -122,4 +123,11 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 
 #busca img {
     float: left;
+}
+
+#footer {
+    width: 100%;
+    margin-bottom: -10px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
