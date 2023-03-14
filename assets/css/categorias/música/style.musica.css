@@ -12,6 +12,10 @@ h1 {
     color: #ffffff;
 }
 
+p {
+    justify-content: center;
+}
+
 .titles_musica {
     border-left: 5px #455062 solid;
     padding-top: 10px;
@@ -35,7 +39,10 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 
 .sections_musica:hover {
     transform: scale(1.1);
-    transition: 2s;{
+    transition: 2s;
+}
+
+.sections_musica {
     -webkit-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
@@ -46,7 +53,7 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
     margin-right: 15px;
     border-radius: 8px;
 }
-}
+
 
 #article_musica {
     justify-content: space-between;
@@ -91,7 +98,7 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
     padding-left: 10px;
 }
 
-.sections_esportes:hover {
+.sections_musica:hover {
     transform: scale(1.1);
     transition: 2s;
 }
@@ -115,7 +122,7 @@ box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
 #text_busca {
     float: left;
     background-color: transparent;
-    padding-left: 110px;
+    padding-left: 80px;
     padding-top: 5px;
     font-size: 15px;
     border: none;
