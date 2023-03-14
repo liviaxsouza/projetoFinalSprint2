@@ -23,6 +23,7 @@ body {
 
 #section_imgsobrenos {
     text-align: center;
+    padding-top:80px;
 }
 
 .section_sobrenos {
@@ -69,8 +70,9 @@ body {
     margin: auto;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 0px;
-
+    padding: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .div_membros {
@@ -86,4 +88,5 @@ body {
 #title_membros {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
+    padding-top:80px;
 }
