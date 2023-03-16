@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     color: rgb(29, 29, 29);
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
 }
 
 p {
@@ -70,8 +71,8 @@ body {
     text-align: center;
     width: 50%;
     margin: auto;
-    margin-top: 100px;
-    margin-bottom: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 0px;
     margin-left: 50px;
     margin-right: 50px;
@@ -124,7 +125,16 @@ box-shadow: 0px 0px 35px -11px rgba(0,0,0,0.75);
     margin-left: 50px;
     margin-right: 50px;
     text-decoration: none;
-    background-color: rgb(0, 0, 0);
     transform: scale(1.1,1.1);
     transition: 2s;
+}
+
+#esportes_gif {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#p_gif {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
