@@ -84,9 +84,14 @@ h2 {
     text-align: right;
     display: flex;
     flex-direction: column;
-    margin-right: 350px;
+    padding-top: -50px;
+    padding-right: 400px;
 }
 
 .div_loc {
     display: flex;
+}
+
+#img_loc {
+    padding-left: 800px;
 }
