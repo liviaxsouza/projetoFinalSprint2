@@ -58,8 +58,7 @@ body {
 }
 
 #section_background {
-    background-image: url(https://images.unsplash.com/photo-1463171379579-3fdfb86d6285?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hbiUyMGFuZCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
-    
+    background-image: url("../../images/sobrenos/fundo\ escuro.jpg");
     margin-top: -100px;
     background-repeat: no-repeat;
     background-size: cover;
