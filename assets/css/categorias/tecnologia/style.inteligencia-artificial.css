@@ -43,3 +43,32 @@ body {
     display: flex;
     padding: 10px;
 }
+
+.section_IA1 {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+#div_IA1 {
+    display: flex;
+    padding: 10px;
+}
+
+#title_IA {
+    text-align: center;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer {
+    height: 250px;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
