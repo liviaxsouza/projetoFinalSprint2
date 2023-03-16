@@ -17,18 +17,18 @@ body {
     padding: 0;
 }
 
-#imgsobrenos {
+#imgesportes {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
 }
 
-#section_imgsobrenos {
+#section_imgesportes {
     text-align: center;
     padding-top:80px;
 }
 
-.section_sobrenos {
+#section_esportes {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
@@ -39,12 +39,12 @@ body {
     display: flex;
 }
 
-#div_sobrenos {
+#div_esportes {
     display: flex;
     padding: 10px;
 }
 
-.section_sobrenos1 {
+.section_esportes1 {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
@@ -55,18 +55,18 @@ body {
     display: flex;
 }
 
-#div_sobrenos1 {
+#div_esportes1 {
     display: flex;
     padding: 10px;
 }
 
-#title_sobrenos {
+#title_esportes {
     text-align: center;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.section_membros {
+.section_artigos {
     text-align: center;
     width: 50%;
     margin: auto;
@@ -78,23 +78,23 @@ body {
     text-decoration: none;
 }
 
-.div_membros {
+.div_artigos {
     display: flex;
     text-align: center;
 }
 
-.text_membros {
+.text_artigos {
     text-align: justify;
     text-align: center;
 }
 
-#title_membros {
+#title_artigos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top:80px;
 }
 
-.section_membros:hover {
+.section_artigos:hover {
     text-align: center;
     width: 50%;
     margin: auto;
@@ -110,8 +110,14 @@ body {
 box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
 }
 
+#text_esportes {
+    text-align: center;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
 #header {
-    height: 210px;
+    height: 250px;
 }
 
 #footer {
