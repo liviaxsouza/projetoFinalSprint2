@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(93, 145, 186);
+    background-color:rgb(93, 145, 186);
     margin: auto;
     padding: 90px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin-top: 0;
     border-radius: 50px;
     color: white;
@@ -11,6 +11,7 @@ body{
     flex-direction: column;
     margin: 0;
     padding: 0;
+
    
 }
 
@@ -31,7 +32,7 @@ h1 {
 }
 
 #Enviar{
-    text-align: right;
+    text-align: center;
     width: 60px;
     border-radius: 20px;
     margin-bottom: 10px;
@@ -55,15 +56,20 @@ form {
     width: 30%;
     margin-top: 80px;
     text-align: right;
+    margin-left: 60%;
 }
 
 #footer {
-    width: 116.4%;
-    margin-left: -90.1px;
+    width: 100%;
+    margin-left: 0px;
     margin-bottom: -200px;
     margin-top: 51px;
 }
 
 #header {
     height: 250px;
+}
+
+label {
+    margin-right: 90%;
 }
