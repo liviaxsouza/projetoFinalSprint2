@@ -6,7 +6,7 @@ body{
     margin-top: 0;
     border-radius: 50px;
     color: white;
-    text-align: center;
+    text-align: right;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -31,7 +31,7 @@ h1 {
 }
 
 #Enviar{
-    text-align: center;
+    text-align: right;
     width: 60px;
     border-radius: 20px;
     margin-bottom: 10px;
@@ -40,10 +40,12 @@ h1 {
     margin: auto;
     margin-top: 5px;
     color: white;
+    text-align: right;
 }
 
 input {
     margin-bottom: 8px;
+    text-align: right;
 }
 
 form {
@@ -52,6 +54,7 @@ form {
     margin: auto;
     width: 30%;
     margin-top: 80px;
+    text-align: right;
 }
 
 #footer {
