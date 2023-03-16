@@ -70,12 +70,13 @@ body {
     text-align: center;
     width: 50%;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 100px;
     margin-bottom: 0px;
-    padding: 40px;
+    padding: 0px;
     margin-left: 50px;
     margin-right: 50px;
     text-decoration: none;
+    background-color: black;
 }
 
 .div_artigos {
@@ -94,22 +95,6 @@ body {
     padding-top:80px;
 }
 
-.section_artigos:hover {
-    text-align: center;
-    width: 50%;
-    margin: auto;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding: 40px;
-    margin-left: 50px;
-    margin-right: 50px;
-    transition: 2s;
-    transform: scale(1.1);
-    -webkit-box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
--moz-box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
-box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
-}
-
 #text_esportes {
     text-align: center;
     padding-left: 10px;
@@ -123,3 +108,4 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
 #footer {
     margin-bottom: -5px;
 }
+
