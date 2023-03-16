@@ -1,36 +1,31 @@
 <!DOCTYPE html>
 <html>
 
-
 <head>
-    <!--meta definido para linguagem latina-->
 
-    <meta charset="UTF-8">
-    <title> Contato </title>
+ <!--meta definido para linguagem latina -->
+    
+        <meta charset="UTF-8">
+        <title>Contato</title>
+ <!--link da logo para o navegador-->
+        <link rel="icon" type="image/x-icon" href="../assets/images/feedback/logo.png" rel="stylesheet">
 
-    <!--link da logo para o navegador-->
+ <!--link do css-->
 
-    <link rel="icon" type="image/x-icon" href="../assets/images/contato/logo.png" rel="stylesheet">
+        <link rel="stylesheet" href="../assets/css/style.contato.css">
 
-    <!--link do css-->
-    <link rel="stylesheet" href="../assets/css/style.contato.css">
 </head>
-
 
 <!--inicio do BODY-->
 
 <body>
-
-    <!--inicio do IFRAME-->
-
-    <iframe id="header" src="../layouts/header.html" width="100%" frameborder="no" scrolling="no"></iframe>
-
-        <!--inicio do TITULO-->
-
-
-        <h1> Entre em contato conosco !!!! </h1>
-        <form action="../pages/success.html" target="_parent" </form>
-
+       <iframe id="header" src="../layouts/header.html" width="100%" frameborder="no" scrolling="no"></iframe>
+ <!--inicio do TITULO-->  
+         
+         <h1> Entre em contato conosco !!!! </h1>
+<div id="div_form">
+         <form action="../pages/success.html" target="_parent" </form>
+              
             <label> Nome </label>
             <input type="text" required>
 
@@ -41,13 +36,21 @@
             <input type="text" required>
 
             <input id="Enviar" type="submit">
+            
+</form> 
+</div>
 
+<section>
+       <div id="div_loc">
+       <h2>Localização</h2>
+       
 
-        </form>
+       <p></p>
+</div>  
+<img id="img_loc" src="../assets/images/contato/loc.png" rel="stylesheet"width="3%" frameborder="no" scrolling="no">
+</section>
+ 
 
-        <iframe id="footer" src="../layouts/footer.html" width="100%" frameborder="0" scolling="no" </iframe>
-
-
+       <iframe id="footer" src="../layouts/footer.html" frameborder="0" scolling="no"></iframe>
 </body>
-
 </html>
