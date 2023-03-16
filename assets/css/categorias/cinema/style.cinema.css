@@ -34,7 +34,7 @@ body {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
-    background-color:rgb( 225,255,255) ;
+    background-color:rgb(255, 255, 255) ;
     width: 50%;
     border-radius: 10px;
     box-shadow: 10px;
@@ -57,7 +57,12 @@ body {
     margin-left: 50px ;
     margin-right:  50px;
     text-decoration: none;
+    -webkit-box-shadow: 10px 10px 24px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 24px -13px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 24px -13px rgba(0,0,0,0.75);
 }
+
+
 
 .div_membros {
     display: flex;
@@ -84,9 +89,7 @@ body {
     margin-right: 50px ;
     transition: 2s;
     transform:scale(1.1)
-    -webkit-box-shadow: -1px 1px 14px 2px rgba(0,0,0,0.75);
-    -moz-box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
-    box-shadow: -1px 1px 14px -2px (0,0,0,0.75)
+    
 }
 
 
