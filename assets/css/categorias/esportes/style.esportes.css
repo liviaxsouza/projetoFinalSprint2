@@ -1,141 +1,119 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #0e1a2c;
-    margin: 0;
-}
-
 h1 {
-    border-left: 5px #ffffff solid;
-    padding-left: 15px;
-    margin-left: 10px;
-    font-size: 60px;
-    color: #ffffff;
-    margin-top: 4px;
-}
-
-.titles_esportes {
-    border-left: 5px #32425B solid;
-    padding-top: 10px;
-    padding-left: 5px;
-    margin-left: 10px;
-    font-size: 35px;
-    color: #32425B;
-}
-
-.sections_esportes {
-    -webkit-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
-    width: 95%;
-    height: 470px;
-    background-color: white;
-    margin-left: 8px;
-    margin-right: 15px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-}
-
-#article_esportes {
-    justify-content: space-between;
     text-align: center;
+    color: rgb(29, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+}
+
+body {
+    background-color: #ffff;
+    margin: 0;
+    padding: 0;
+}
+
+#imgsobrenos {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+#section_imgsobrenos {
+    text-align: center;
+    padding-top:80px;
+}
+
+.section_sobrenos {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
     display: flex;
 }
 
-#img_futebol {
-    width: 350px;
-}
-
-#img_volei {
-    width: 355px;
-}
-
-#img_basquete {
-    width: 365px;
-}
-
-.titles_artigos {
-    border-left: 5px #32425B solid;
-    padding-top: 10px;
-    padding-left: 10px;
-    margin-left: 8px;
-    font-size: 35px;
-    color: #32425B;
-}
-
-.sections_artigos {
-    background-color: white;
-    -webkit-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
-box-shadow: 0px 3px 19px -1px rgba(0,0,0,0.75);
-    border-right: 5px #32425B solid;
-    border-bottom: 5px #32425B solid;
-    height:150px;
-    margin-left: 15px;
-    margin-right: 15px;
-}
-
-.texts_artigos {
-    padding-left: 10px;
-}
-
-.sections_esportes:hover {
-    transform: scale(1.1);
-    transition: 2s;
-}
-
-.sections_artigos:hover {
-    transform: scale(1.1);
-    transition: 2s;
-}
-
-#busca {
-    background-color: #ffffff;
-    border: solid 2px #768AA5;
-    border-radius: 5px;
-    width: 500px;
-    height: 40px;
-    margin-left: 600px;
-    margin-right: 70px;
-    margin-top: 5px;
-}
-
-#text_busca {
-    float: left;
-    background-color: transparent;
-    padding-left: 5px;
-    padding-top: 5px;
-    font-size: 15px;
-    border: none;
-    width: 191px;
-    height: 32px;
-}
-
-#button_busca {
-    border: none;
-    float: left;
-    width: 72px;
-    height: 40px;
-    border-radius: 0 7px 7px 0;
-    font-weight: bold;
-    justify-content: right;
-}
-
-#title_busca {
+#div_sobrenos {
     display: flex;
-} 
-
-#busca img {
-    float: left;
+    padding: 10px;
 }
 
-#footer {
-    width: 100%;
-    margin-bottom: -10px;
-    margin-right: 0px;
-    margin-left: 0px;
+.section_sobrenos1 {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+#div_sobrenos1 {
+    display: flex;
+    padding: 10px;
+}
+
+#title_sobrenos {
+    text-align: center;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section_membros {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+.div_membros {
+    display: flex;
+    text-align: center;
+}
+
+.text_membros {
+    text-align: justify;
+    text-align: center;
+}
+
+#title_membros {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:80px;
+}
+
+.section_membros:hover {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: 2s;
+    transform: scale(1.1);
+    -webkit-box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
+box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
 }
 
 #header {
-    width: 100%;
-    height: 250px;
+    height: 210px;
+}
+
+#footer {
+    margin-bottom: -5px;
 }
