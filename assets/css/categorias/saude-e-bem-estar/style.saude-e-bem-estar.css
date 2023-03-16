@@ -75,11 +75,13 @@ body {
     margin-left: 50px;
     margin-right: 50px;
     text-decoration: none;
+    border-radius: 10px;
 }
 
 .div_membros {
     display: flex;
     text-align: center;
+    border-radius: 10px;
 }
 
 .text_membros {
