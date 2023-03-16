@@ -65,7 +65,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.section_membros {
+.section_oqueé {
     text-align: center;
     width: 50%;
     margin: auto;
@@ -77,23 +77,23 @@ body {
     text-decoration: none;
 }
 
-.div_membros {
+.div_pqserve {
     display: flex;
     text-align: center;
 }
 
-.text_membros {
+.text_diferença {
     text-align: justify;
     text-align: center;
 }
 
-#title_membros {
+#title_metodos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top:80px;
 }
 
-.section_membros:hover {
+.section_vestibular:hover {
     text-align: center;
     width: 50%;
     margin: auto;
