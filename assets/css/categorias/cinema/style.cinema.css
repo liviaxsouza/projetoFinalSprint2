@@ -82,12 +82,11 @@ body {
 .section_membros:hover {
     text-align: center;
     width: 50%;
-    margin: auto;
     margin-top: 0px;
     padding: 40px;
     margin-left: 50px;
     margin-right: 50px ;
-    transition: 2s;
+    transition: 1s;
     transform:scale(1.1)
     
 }
