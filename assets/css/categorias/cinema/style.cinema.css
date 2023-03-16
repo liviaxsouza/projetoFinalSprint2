@@ -11,3 +11,14 @@ p {
     font-size: medium;
     
 }
+
+body {
+    background-color: #ffff;
+    margin: 0;
+}
+
+#imgsobrenos {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
