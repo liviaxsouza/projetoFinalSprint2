@@ -1,0 +1,94 @@
+h1 {
+    text-align: center;
+    color: rgb(29, 29, 29);
+    font-family: Arial;
+}
+
+p {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: medium;
+}
+
+body {
+    background-color: #ffff;
+    margin: 0;
+}
+
+#imgoqueé {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+#section_imgoqueé {
+    text-align: center;
+    padding-top:80px;
+}
+
+.section_oqueé {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+    font-size: medium;
+}
+
+#div_oqueé {
+    display: flex;
+    padding: 10px;
+}
+
+.section_oqueé2 {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+    font-family: Arial;
+    font-size: medium;
+}
+
+#div_oqueé2 {
+    display: flex;
+    padding: 10px;
+}
+
+#title_oqueé {
+    text-align: center;
+    padding-left: 10px;
+    font-family: Arial;
+}
+
+#section_background {
+    background-image:url(../../../images/Vestibular/diferença.png);
+    margin-top: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#texto-central {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 290px;
+    color: rgb(255, 249, 249);
+}
+
+.p_1{
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    padding-top: 15px;
+}
