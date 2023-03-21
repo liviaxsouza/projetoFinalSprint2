@@ -1,12 +1,9 @@
-@font-face {
-    font-family:'Mukta', sans-serif;
-    src: url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Inter:wght@200&family=Mukta:wght@200&family=MuseoModerno:wght@100&display=swap');
-}
+
 
 h1 {
     text-align: center;
     color: rgb(29, 29, 29);
-    font-family:'Mukta', sans-serif;
+    font-family: Arial;
     padding-bottom: -5px;
 }
 
