@@ -17,3 +17,37 @@ footer {
     float:left; 
     margin-bottom:2em;
 }
+.colfooter ul        { width:100%; float:left; }
+.colfooter ul li     { padding:0.2em 0em; }
+.colfooter ul li a   { text-decoration:none; color:#505050; font-size:1em; transition:0.2s; }
+.colfooter ul li a i { font-size:0.5em; }
+.colfooter ul li a:hover { color:#0acbd1; transition:0.2s; }
+.titleFooter { 
+  border-bottom:1px solid #eaeaea;
+  color:#505050;  
+  margin-bottom:25px; 
+  padding-bottom:0; 
+   
+}
+.titleFooter span { 
+  display: inline-block; 
+  font-family:'open_sansregular'; 
+  font-size:1.3em; 
+  font-weight:900; 
+  color:#505050;
+  margin-top:0; 
+  margin-bottom:0; 
+}
+.titleFooter span::after {
+ content:'';
+ display:block;
+ position:relative;
+ top:1px;
+ width:100%;
+ height:4px;
+ border-radius:6px; 
+ background-color:#505050;
+}
+.colfooter p  { font-family:'open_sanslight'; color:#505050; font-size:1em; height:25px; } 
+.colfooter .redesocial { 
+  
