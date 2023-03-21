@@ -16,18 +16,19 @@ body {
     margin: 0;
 }
 
-#imgoqueé {
+#imgdiferença {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
+    text-align: center;
 }
 
-#section_imgoqueé {
+#section_diferença {
     text-align: center;
     padding-top:80px;
 }
 
-.section_oqueé {
+.section_diferença {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
@@ -39,12 +40,12 @@ body {
     font-size: medium;
 }
 
-#div_oqueé {
+#div_diferença {
     display: flex;
     padding: 10px;
 }
 
-.section_oqueé2 {
+.section_diferença2 {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
@@ -57,12 +58,12 @@ body {
     font-size: medium;
 }
 
-#div_oqueé2 {
+#div_diferença2 {
     display: flex;
     padding: 10px;
 }
 
-#title_oqueé {
+#title_diferença{
     text-align: center;
     padding-left: 10px;
     font-family: Arial;
@@ -92,3 +93,5 @@ body {
     font-size: medium;
     padding-top: 15px;
 }
+
+
