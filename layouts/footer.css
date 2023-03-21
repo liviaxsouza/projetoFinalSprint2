@@ -1,0 +1,19 @@
+footer {
+    bottom: 0;
+    position: absolute;
+}
+
+.main_footer { 
+    background-color:#ffffff; 
+    color:#fff; 
+    font-size:0.875em; 
+
+}
+.main_footer .content { float:left; width:90%; margin:0 5%; padding: 5em 0; }
+.container { float:left; width:100%; }
+.colfooter { 
+    width:100%; 
+    height:auto; 
+    float:left; 
+    margin-bottom:2em;
+}
