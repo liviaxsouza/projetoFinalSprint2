@@ -5,7 +5,7 @@ body {
 }
 
 #header {
-    padding-top: 35px;
+    padding-top: 30px;
 }
 
 h1 {
@@ -101,6 +101,10 @@ nav {
 
 div {
     background-color: #32425B;
-    height: 90px;
+    height: 95px;
 
+}
+
+#img_iconlist {
+    background-color: #32425B;
 }
