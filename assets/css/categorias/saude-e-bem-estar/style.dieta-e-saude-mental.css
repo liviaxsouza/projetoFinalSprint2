@@ -96,14 +96,13 @@ body {
     padding-top:80px;
 }
 
-
-
 #header {
+
     height: 250px;
 }
 
 #section_background {
-    background-image: url("../../../images/saude/familia-saude2.jpg");
+    background-image: url("../../../images/saude/dieta2.jpg");
     margin-top: -100px;
     background-repeat: no-repeat;
     background-size: cover;
