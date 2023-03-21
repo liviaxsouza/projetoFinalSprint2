@@ -58,7 +58,7 @@ h3 {
      text-shadow: -50px 0px 0px rgba(66,66,66,.0);
     font-size: smaller;
     padding: 4px;
-    
+
 }
 
 .div_p4 {
@@ -67,7 +67,9 @@ h3 {
     font-size: smaller;
     padding-top: -30px;
      display: flex;
-
+     justify-content: space-between;
+     padding-left: 25px;
+     padding-right: 25px;
 }
 
 .p_1 {
