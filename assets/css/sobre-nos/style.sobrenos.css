@@ -1,13 +1,18 @@
+
+
 h1 {
     text-align: center;
     color: rgb(29, 29, 29);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
+    padding-bottom: -5px;
 }
 
 h3 {
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
+    transition: 2s;
+    transform: scale(1.0);
 }
 
 #title_sobrenos1 {
@@ -18,20 +23,57 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
+.p {
     text-align: left;
     color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: medium;
     margin-left: 20px;
     margin-right: 20px;
+    
 }
 
 .p_2 {
     text-align: left;
     color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
 
+}
+
+.p_3 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    font-weight: bold;
+    margin-top: -5px;
+
+}
+
+.p_4 {
+    border-width: 0px;
+     border-color: #ffffff;
+     background-color: #aaadc5;
+     color: #000000;
+     border-style: solid;
+     border-radius: 50px;
+     box-shadow: 0px 0px 3px rgba(8,8,8,.0);
+     text-shadow: -50px 0px 0px rgba(66,66,66,.0);
+    font-size: smaller;
+    padding: 6px;
+    margin-top: 5px;
+    font-family: arial;
+
+}
+
+.div_p4 {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+     display: flex;
+     justify-content: space-between;
+     padding-left: 20px;
+     padding-right: 20px;
 }
 
 .p_1 {
@@ -39,6 +81,8 @@ p {
         color: rgb(255, 255, 255);
         font-family: Arial, Helvetica, sans-serif;
         font-size: medium;
+        transition: 1s;
+    transform: scale(1.0);
 }
 
 body {
@@ -84,6 +128,11 @@ body {
 #div_sobrenos {
     display: flex;
     padding: 10px;
+    margin-top: 50px;
+}
+
+#div_p4 {
+    display: flex;
 }
 
 .section_sobrenos1 {

@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    color: rgb(29, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+}
+
+body {
+    background-color: #ffff;
+    margin: 0;
+    font-family: Arial;
+}
+
+#imgpqserve {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    
+}
+
+#section_imgpqserve {
+    text-align: center;
+    padding-top:80px;
+    width: 50%;
+    margin-left: 350px;
+}
+
+.section_pqserve {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+#div_pqserve {
+    display: flex;
+    padding: 10px;
+}
+
+.section_pqserve2 {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+#div_pqserve2 {
+    display: flex;
+    padding: 10px;
+}
+
+#title_pqserve {
+    text-align: center;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#section_background {
+    background-image: url("../../../images/Vestibular/pqserve01.jfif");
+    margin-top: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#texto-central {
+    padding-top: 290px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    
+}
+
+.p_1 {
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    padding-top: 15px;
+}
+
+
+#pqserve {
+    margin-left: 50px;
+}

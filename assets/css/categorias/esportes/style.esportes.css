@@ -1,14 +1,14 @@
 h1 {
     text-align: center;
-    color: rgb(29, 29, 29);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
     text-align: left;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
-    font-size:medium;
+    font-size: medium;
     text-align: justify;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 #section_background {
-    background-image: url("../../../images/esportes/banner\ esporte.jpg");
+    background-image: url("../../../images/esportes/banner\ esporte\ 3.jpg");
     margin-top: -100px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,7 +34,7 @@ body {
 
 .p_1 {
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
     padding-top: 70px;
@@ -48,7 +48,7 @@ body {
 
 #section_imgesportes {
     text-align: center;
-    padding-top:80px;
+    padding-top: 80px;
 }
 
 #section_esportes {
@@ -60,6 +60,7 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
+    color: rgb(0, 0, 0);
 }
 
 #div_esportes {
@@ -93,13 +94,16 @@ body {
     text-align: center;
     width: 50%;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 30px;
     margin-bottom: 0px;
     padding: 0px;
     margin-left: 50px;
     margin-right: 50px;
     text-decoration: none;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
 .div_artigos {
@@ -115,13 +119,41 @@ body {
 #title_artigos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    padding-top:80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#title_esportes {
+    color: #ffff !important;
+    transition: 1s;
+    transform: scale(1.0);
 }
 
 #text_esportes {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff !important;
+    transition: 1s;
+    transform: scale(1.0);
+}
+
+@keyframes fadeInOutAnimation {
+    0% {
+        opacity: 0;
     }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.fadeInOut {
+    cursor: pointer;
+    animation: fadeInOutAnimation 2s;
+    animation-direction:normal;
+    animation-timing-function: ease-in-out;
+    text-align: center;
+}
 
 #header {
     height: 250px;
