@@ -8,6 +8,11 @@ body {
     padding-top: 30px;
 }
 
+#img_iconlist {
+    position: absolute;
+    margin-top: 30px;
+}
+
 h1 {
     margin-left: 50px;
     color: white;
@@ -106,7 +111,10 @@ div {
 }
 
 #button {
-    border-radius: 10px;
-    width: 120px;
-    border: #32425B
+    border-radius: 20px ;
+    margin-top: 10px;
+    width: 160px;
+    height: 35px;
+    cursor: pointer;
+    font-size: 20px;
 }
