@@ -118,3 +118,7 @@ body {
     text-align: center;
     color: aliceblue;
 }
+
+#footer {
+    height: 550px;
+}

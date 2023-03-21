@@ -29,6 +29,7 @@ body {
     padding-top: 200px;
     padding-bottom: 200px;
     text-align: center;
+    color: white;
 }
 
 .p_1 {
@@ -128,6 +129,7 @@ body {
 
 #footer {
     margin-bottom: -5px;
+    height: 550px;
 }
 
 #img_esportes {
