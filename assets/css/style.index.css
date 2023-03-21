@@ -14,8 +14,8 @@ h1 {
 }
 
 #section_conectese {
-    margin-top: 100px;
-    margin-left: 90px;
+    margin-top: 120px;
+    margin-left: 60px;
 }
 
 #title_conectese {
@@ -112,6 +112,10 @@ div {
     height: 35px;
     cursor: pointer;
     font-size: 20px;
+}
+
+#text_img {
+    display: flex;
 }
 
 #footer {
