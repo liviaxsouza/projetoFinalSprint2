@@ -1,12 +1,12 @@
 h1 {
     text-align: center;
-    color: rgb(29, 29, 29);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
     text-align: left;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     font-size:medium;
     text-align: justify;
@@ -33,7 +33,7 @@ body {
 
 .p_1 {
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
     padding-top: 70px;
@@ -122,10 +122,19 @@ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
     padding-bottom: 30px;
 }
 
+#title_esportes {
+    color: #ffff;
+    transition: 1s;
+    transform: scale(1.0);
+}
+
 #text_esportes {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    }
+    color: #ffff;
+    transition: 1s;
+    transform: scale(1.0);
+}
 
 #header {
     height: 250px;
