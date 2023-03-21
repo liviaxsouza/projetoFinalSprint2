@@ -1,9 +1,9 @@
 #section_background {
-    background-image: url("../../images/../../images/cinema/cinamafundo.jpeg");
-    margin-bottom: 50px;
+    background-image: url("../../images/../../images/cinema/cinemafundo6.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% ;
     color: rgb(255, 255, 255);
+    width: 100%;
     
 
 }
@@ -21,7 +21,7 @@
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
-    padding-top: 70px;
+    padding-top: 200px;
 }
 
 
