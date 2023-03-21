@@ -48,16 +48,20 @@ h3 {
 }
 
 .p_4 {
-    border-style: solid;
-     border-radius: 100px;
-     box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.46);
-     text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.75);
+    border-width: 0px;
+     border-color: #ffffff;
+     background-color: #aaadc5;
+     color: #000000;
+     border-style: solid;
+     border-radius: 50px;
+     box-shadow: 0px 0px 6px rgba(66,66,66,.46);
+     text-shadow: -50px 0px 0px rgba(66,66,66,.0);
     font-size: smaller;
     padding: 4px;
+    
 }
 
 .div_p4 {
-    text-align: center;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size: smaller;
