@@ -59,7 +59,7 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 #div_esportes {
@@ -131,7 +131,7 @@ body {
 #text_esportes {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: #ffff !important;
+    color: #ffffff !important;
     transition: 1s;
     transform: scale(1.0);
 }
@@ -148,9 +148,10 @@ body {
 
 .fadeInOut {
     cursor: pointer;
-    animation: fadeInOutAnimation 5s infinite;
-    animation-direction: alternate-reverse;
+    animation: fadeInOutAnimation 2s;
+    animation-direction:normal;
     animation-timing-function: ease-in-out;
+    text-align: center;
 }
 
 #header {
