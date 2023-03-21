@@ -1,3 +1,33 @@
+#section_background {
+    background-image: url("../../images/../../images/cinema/cinemafundo.jpg");
+    margin-top: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+#texto-central {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+.p_1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 150px;
+}
+
+
+
+
+
 h1 {
     text-align: center;
     color: rgb (29,29,29);
@@ -25,9 +55,10 @@ body {
     
 }
 
-#section_imgssobrenos{
-    text-align: center;
-    padding-top: 80px;
+#section_imgsobrenos{
+    display: flex;
+    justify-content: center;
+
 }
 
 .section_sobrenos {
@@ -92,7 +123,8 @@ body {
 }
 
 #cinema_1 {
-    margin: 1500px;
+    display: flex;
+    justify-content: end;
 }
 
 
