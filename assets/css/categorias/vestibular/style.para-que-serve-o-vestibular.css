@@ -20,11 +20,14 @@ body {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
+    
 }
 
 #section_imgpqserve {
     text-align: center;
     padding-top:80px;
+    width: 50%;
+    margin-left: 350px;
 }
 
 .section_pqserve {
