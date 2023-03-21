@@ -1,13 +1,13 @@
 h1 {
     text-align: center;
     color: rgb(29, 29, 29);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
 }
 
 p {
     text-align: left;
     color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: medium;
 }
 
@@ -36,6 +36,7 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
+    font-size: larger;
 }
 
 #div_oqueé {
@@ -52,6 +53,8 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
+    font-family: Arial;
+    font-size: larger;
 }
 
 #div_oqueé2 {
@@ -62,7 +65,7 @@ body {
 #title_oqueé {
     text-align: center;
     padding-left: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
 }
 
 #section_background {
@@ -78,14 +81,14 @@ body {
     padding-bottom: 200px;
     text-align: center;
     font-size: x-large;
-    padding-top: 140px;
+    padding-top: 290px;
+    color: white;
 }
 
 .p_1{
     text-align: center;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
-    padding-top: 90px;
-}
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    padding-top: 15px;
 }
