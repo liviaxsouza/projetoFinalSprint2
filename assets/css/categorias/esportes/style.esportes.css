@@ -25,6 +25,12 @@ body {
     background-size: cover;
 }
 
+#texto-central {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+
 #imgesportes {
     margin-top: 20px;
     margin-bottom: 30px;
