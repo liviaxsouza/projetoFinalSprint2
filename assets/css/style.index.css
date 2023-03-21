@@ -14,8 +14,8 @@ h1 {
 }
 
 #section_conectese {
-    margin-top: 200px;
-    margin-left: 90px;
+    margin-top: 120px;
+    margin-left: 60px;
 }
 
 #title_conectese {
@@ -56,6 +56,15 @@ h1 {
     border: 5px;
 }
 
+.anav_5 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: large;
+    padding: 10px;
+    border: 5px;
+}
+
 nav ul {
     list-style: none;
     margin: 0;
@@ -65,14 +74,14 @@ nav ul {
 }
 
 nav li{
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
 nav {
     display: flex;
     justify-content: center;
     margin-top: -15px;
-    margin-left: 800px;
+    margin-left: 600px;
 }
 
 .anav_1:hover {
@@ -99,10 +108,15 @@ nav {
     border-radius: 10px;
 }
 
+.anav_5:hover {
+    background-color: rgb(92, 121, 146);
+    transition: 1s;
+    border-radius: 10px;
+}
+
 div {
     background-color: #32425B;
     height: 95px;
-
 }
 
 #button {
@@ -112,6 +126,10 @@ div {
     height: 35px;
     cursor: pointer;
     font-size: 20px;
+}
+
+#text_img {
+    display: flex;
 }
 
 #footer {
