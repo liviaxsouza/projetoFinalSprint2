@@ -105,6 +105,8 @@ div {
 
 }
 
-#img_iconlist {
-    background-color: #32425B;
+#button {
+    border-radius: 10px;
+    width: 120px;
+    border: #32425B
 }
