@@ -16,11 +16,12 @@ body {
     margin: 0;
 }
 
-#imgdiferença {
+#imgdiferenca {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
-    text-align: center;
+    justify-content: center;
+    margin-left: 380px;
 }
 
 #section_diferença {
