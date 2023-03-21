@@ -1,3 +1,14 @@
+@font-face{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    src: url(('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+    
+
+}
+
+
+
+
+
 body{
     background-color: rgb(93, 145, 186);
     margin: auto;

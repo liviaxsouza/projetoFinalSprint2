@@ -18,6 +18,13 @@ body {
     padding: 0;
 }
 
+#section_background {
+    background-image: url("../../../images/esportes/banner\ esporte.jpg");
+    margin-top: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #imgesportes {
     margin-top: 20px;
     margin-bottom: 30px;
@@ -107,4 +114,8 @@ body {
 
 #footer {
     margin-bottom: -5px;
+}
+
+#img_esportes {
+    padding-left: 20px;
 }
