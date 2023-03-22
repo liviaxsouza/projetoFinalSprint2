@@ -1,9 +1,11 @@
 #section_background {
-  background-image: url("../../images/../../images/cinema/cinemafundo6.jpg");
+  background-image: url("../../images/../../images/musica/musica\ arte.jpeg");
   background-repeat: no-repeat;
   background-size: 100% ;
   color: rgb(255, 255, 255);
   width: 100%;
+  padding-top: 40%;
+  padding-bottom: -3%;
   
 
 }
