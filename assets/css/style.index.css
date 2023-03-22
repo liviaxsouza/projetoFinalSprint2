@@ -117,3 +117,8 @@ h2 {
     padding-top: 18px;
     padding-left: 7px;
 }
+
+.text_date {
+    padding-left: 7px;
+    color: gray;
+}
