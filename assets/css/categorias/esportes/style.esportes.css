@@ -1,21 +1,43 @@
 h1 {
     text-align: center;
-    color: rgb(29, 29, 29);
+    color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 10px;
 }
 
 p {
     text-align: left;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
-    font-size:medium;
+    font-size: medium;
+    text-align: justify;
 }
 
 body {
     background-color: #ffff;
     margin: 0;
     padding: 0;
+}
+
+#section_background {
+    background-image: url("../../../images/esportes/banner\ esporte\ 3.jpg");
+    margin-top: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#texto-central {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.p_1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 70px;
 }
 
 #imgesportes {
@@ -26,7 +48,7 @@ body {
 
 #section_imgesportes {
     text-align: center;
-    padding-top:80px;
+    padding-top: 80px;
 }
 
 #section_esportes {
@@ -38,6 +60,7 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
+    color: rgb(0, 0, 0);
 }
 
 #div_esportes {
@@ -71,18 +94,16 @@ body {
     text-align: center;
     width: 50%;
     margin: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-bottom: 0px;
     padding: 0px;
     margin-left: 50px;
     margin-right: 50px;
     text-decoration: none;
-    border-radius: 5px;
-    color: black;
     background-color: rgb(255, 255, 255);
-    -webkit-box-shadow: 0px 0px 35px -11px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 0px 35px -11px rgba(0,0,0,0.75);
-box-shadow: 0px 0px 35px -11px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
 .div_artigos {
@@ -98,14 +119,42 @@ box-shadow: 0px 0px 35px -11px rgba(0,0,0,0.75);
 #title_artigos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    padding-top:80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#title_esportes {
+    color: #ffff !important;
+    transition: 1s;
+    transform: scale(1.0);
 }
 
 #text_esportes {
     text-align: center;
-    padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff !important;
+    transition: 1s;
+    transform: scale(1.0);
+}
+
+@keyframes fadeInOutAnimation {
+    0% {
+        opacity: 0;
     }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.fadeInOut {
+    cursor: pointer;
+    animation: fadeInOutAnimation 2s;
+    animation-direction:normal;
+    animation-timing-function: ease-in-out;
+    text-align: center;
+    color: white;
+}
 
 #header {
     height: 250px;
@@ -113,28 +162,9 @@ box-shadow: 0px 0px 35px -11px rgba(0,0,0,0.75);
 
 #footer {
     margin-bottom: -5px;
+    height: 550px;
 }
 
-.section_artigos:hover {
-    text-align: center;
-    width: 50%;
-    margin: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 0px;
-    margin-left: 50px;
-    margin-right: 50px;
-    text-decoration: none;
-    transform: scale(1.1,1.1);
-    transition: 2s;
-}
-
-#esportes_gif {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-#p_gif {
-    margin-top: 20px;
-    margin-bottom: 20px;
+#img_esportes {
+    padding-left: 20px;
 }
