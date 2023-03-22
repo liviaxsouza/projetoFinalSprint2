@@ -90,16 +90,21 @@ h2 {
     margin-left: 15px;
 }
 
-#img_vestibular {
+.img_noticias {
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-.img_textV {
+.img_textN {
     display: flex;
 }
 
-#text_vestibular {
+.text_noticias {
     padding-left: 15px;
     color: gray;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
 }
