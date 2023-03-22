@@ -78,3 +78,28 @@ h2 {
 #containerArticle{
     margin-top: 40px;
 }
+
+.section_noticias {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 40px;
+    padding-top: 15px;
+    padding-left: 15px;
+    width: 700px;
+    margin-left: 15px;
+}
+
+#img_vestibular {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img_textV {
+    display: flex;
+}
+
+#text_vestibular {
+    padding-left: 15px;
+    color: gray;
+}
