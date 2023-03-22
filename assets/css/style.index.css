@@ -86,7 +86,7 @@ h2 {
     margin-top: 40px;
     padding-top: 15px;
     padding-left: 15px;
-    width: 700px;
+    width: 900px;
     margin-left: 15px;
 }
 
@@ -115,10 +115,10 @@ h2 {
 
 .img_stars {
     padding-top: 18px;
-    padding-left: 7px;
+    padding-left: 10px;
 }
 
 .text_date {
-    padding-left: 7px;
+    padding-left: 10px;
     color: gray;
 }
