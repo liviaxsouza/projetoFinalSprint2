@@ -108,3 +108,12 @@ h2 {
     padding-left: 205px;
     padding-bottom: 15px;
 }
+
+.icon_text {
+    display: flex;
+}
+
+.img_stars {
+    padding-top: 18px;
+    padding-left: 7px;
+}
