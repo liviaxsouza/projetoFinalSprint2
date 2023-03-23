@@ -1,31 +1,3 @@
-.div_membros {
-  display: flex;
-  text-align: center;
-
-}
-
-.section_membros {
-  text-align: center;
-  width: 50%;
-  margin: auto;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding: 40px;
-  margin-left: 50px ;
-  margin-right:  50px;
-  text-decoration: none;
-  -webkit-box-shadow: 10px 10px 24px -13px rgba(0,0,0,0.75);
-  -moz-box-shadow: 10px 10px 24px -13px rgba(0,0,0,0.75);
-  box-shadow: 10px 10px 24px -13px rgba(0,0,0,0.75);
-
-}
-
-.text_membros {
-  text-align: justify;
-  text-align: center;
-}
-
-  
 h1 {
     text-align: left;
     color: rgb(29, 29, 29);
@@ -103,6 +75,27 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.section_membros {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+.div_membros {
+    display: flex;
+    text-align: center;
+}
+
+.text_membros {
+    text-align: justify;
+    text-align: center;
+}
 
 #title_membros {
     font-size: 30px;
@@ -134,4 +127,56 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     padding-top: 200px;
     padding-bottom: 200px;
     text-align: center;
+
+}
+
+.section_noticias {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 40px;
+    padding-top: 15px;
+    padding-left: 15px;
+    width: 940px;
+    margin-left: 150px;
+}
+
+.img_noticias {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img_textN {
+    display: flex;
+}
+
+.text_noticias {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: gray;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.icon_text {
+    display: flex;
+}
+
+.img_stars {
+    padding-top: 18px;
+    padding-left: 10px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
+
+.title_categorias {
+    text-decoration: none;
+    color: black;
+    font-family: arial;
 }
