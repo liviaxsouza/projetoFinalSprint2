@@ -138,10 +138,10 @@ p {
 }
 
 
-.flip_card_front_missao {
+.flip_card_front_proposta {
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/comdia/missão.png");
+    background-image: url("../../../images/cinema/romance/A\ Proposta\ .jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
