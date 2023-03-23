@@ -205,14 +205,6 @@ a {
     margin-right: 45px;
 }
 
-.titulo_coment {
-    color: rgb(0, 0, 0);
-    font-family: arial;
-    font-size:large;
-    margin-bottom: 15px;
-    text-align: left;
-}
-
 #article_comentarios {
     display: flex;
     justify-content: space-between;
@@ -228,10 +220,10 @@ a {
     font-family: arial;
 }
 
-.borda_comentarios {
-    padding-right: 1050px;
+.borda_coment {
+    padding-right: 1000px;
     padding-bottom: 225px;
-    padding-top: 10.5px;
+    padding-top: 13px;
     padding-left: 10.5px;
     margin: 7.5px;
     margin-bottom: 22.5px;
