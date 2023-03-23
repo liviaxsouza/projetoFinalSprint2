@@ -126,10 +126,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_baywatch {
+.flip_card_front_mad{
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/comdia/baywatch.jpg");
+    background-image: url("../../../images/cinema/ação/mad.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -138,10 +138,10 @@ p {
 }
 
 
-.flip_card_front_missao {
+.flip_card_front_novo{
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/comdia/missão.png");
+    background-image: url("../../../images/cinema/ação/13.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -149,10 +149,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_agente{
+.flip_card_front_maze{
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/comdia/Agente\ 86.jpg");
+    background-image: url("../../../images/cinema/ação/Maze\ Runner.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
