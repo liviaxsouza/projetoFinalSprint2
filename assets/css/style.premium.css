@@ -63,3 +63,13 @@ body
 	transition: .4s line;
 }
 
+
+.preco
+{
+	font-size: 70px;
+	color: #0fbcf9;
+	margin: 40px 0;
+	transition: .2s linear;
+}
+
+
