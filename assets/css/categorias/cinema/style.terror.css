@@ -104,10 +104,10 @@ p {
 
 
 
-.flip_card_front_continecia {
+.flip_card_front_iluminado {
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/romance/continecia.jfif");
+    background-image: url("./../../../images/cinema/terror/Oiluminado.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
