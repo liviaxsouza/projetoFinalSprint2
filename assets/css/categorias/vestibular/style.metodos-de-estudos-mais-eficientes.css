@@ -31,7 +31,7 @@ body {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
-    background-color: rgb(255, 255, 255);
+    background-color: white);
     width: 50%;
     border-radius: 10px;
     box-shadow: 10px;
@@ -48,7 +48,7 @@ body {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     width: 50%;
     border-radius: 10px;
     box-shadow: 10px;
@@ -69,25 +69,28 @@ body {
 }
 
 #section_background {
-    background-image:url(../../../images/Vestibular/vestibular07.jpg);
-    margin-top: -100px;
+    
+    margin-top: -300px;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: -170px;
 }
 
 
 #texto-central {
-    padding-top: 200px;
+    padding-top: -10px;
     padding-bottom: 200px;
     text-align: center;
     font-size: x-large;
     padding-top: 290px;
-    color: white;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: -80;
 }
 
 .p_1{
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: Arial;
     font-size: medium;
     padding-top: 15px;
