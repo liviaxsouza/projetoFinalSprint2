@@ -113,3 +113,34 @@ h1 {
     padding-left: 10px;
     color: gray;
 }
+
+.title_categorias {
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+}
+
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.class_h3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: arial;
+}
+
+.borda_coment {
+    padding-right: 1000px;
+    padding-bottom: 225px;
+    padding-top: 13px;
+    padding-left: 10.5px;
+    margin: 7.5px;
+    margin-bottom: 22.5px;
+}
+
