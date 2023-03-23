@@ -185,3 +185,16 @@ a {
     text-decoration: none;
     color: black;
 }
+
+#section_background {
+    background-image: url("../../../images/musica/musica2.jpg");
+    margin-top: -105px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#texto-central {
+    padding-top: 180px;
+    padding-bottom: 350px;
+    text-align: center;
+}
