@@ -1,6 +1,6 @@
 #section_1 {
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 60px;
 }
@@ -80,10 +80,10 @@ p {
 }
 
 
-.flip_card_front_esposa{
+.flip_card_front_natal{
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/comdia/esposa.jpg");
+    background-image: url("./../../../images/cinema/romance/natal.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -91,10 +91,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_familia{
+.flip_card_front_antes{
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/comdia/familia.jpg");
+    background-image: url("./../../../images/cinema/romance/como\ eu\ era\ antes\ de\ vc.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -107,7 +107,7 @@ p {
 .flip_card_front_continecia {
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/romance/continencia.jpg");
+    background-image: url("./../../../images/cinema/romance/continecia.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
