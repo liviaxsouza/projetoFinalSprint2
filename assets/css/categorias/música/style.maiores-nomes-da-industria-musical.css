@@ -6,6 +6,13 @@ h1 {
     font-size: xx-large;
 }
 
+.class_h1 {
+    text-align: center;
+    color: rgb(29, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
 #imgsobrenos {
     margin-top: 20px;
     margin-bottom: 30px;
