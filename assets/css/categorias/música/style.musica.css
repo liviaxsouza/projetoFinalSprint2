@@ -198,3 +198,43 @@ a {
     padding-bottom: 350px;
     text-align: center;
 }
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.titulo_coment {
+    color: rgb(0, 0, 0);
+    font-family: arial;
+    font-size:large;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.class_h3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: arial;
+}
+
+.borda_comentarios {
+    border-radius: 7.5px;
+    padding-right: 1050px;
+    padding-bottom: 225px;
+    padding-top: 10.5px;
+    padding-left: 10.5px;
+    margin: 7.5px;
+    margin-bottom: 22.5px;
+}
+
