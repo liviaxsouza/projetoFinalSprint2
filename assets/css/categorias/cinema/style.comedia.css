@@ -121,3 +121,38 @@ p {
     -webkit-backface-visibility: hidden;
     border-radius: 20px;
 }
+
+.flip_card_front_baywatch {
+    position: absolute;
+    width: 250px;
+    background-image: url("../../../images/cinema/comdia/baywatch.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    border-radius: 20px;
+}
+
+
+.flip_card_front_missao {
+    position: absolute;
+    width: 250px;
+    background-image: url("../../../images/cinema/comdia/missão.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    border-radius: 20px;
+}
+
+.flip_card_front_agente{
+    position: absolute;
+    width: 250px;
+    background-image: url("../../../images/cinema/comdia/Agente\ 86.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    border-radius: 20px;
+}
+
