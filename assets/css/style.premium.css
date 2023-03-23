@@ -8,16 +8,13 @@
 	list-style: none;
 }
 
-
 body
 {
-	background-color:#32425b;
+	background-color: #32425b;
 	min-height: 100vh;
-	display: flex;
 	align-items: center;
-	 
-}
 
+}
 
 .tabela-preco
 {
@@ -27,7 +24,6 @@ body
 	width: min(1600px, 100%);
 	margin:  auto;
 }
-
 
 .card-preco
 {
@@ -42,10 +38,9 @@ body
 	transition: .3s linear;
 }
 
-
 .card-preco:hover .card-preco-header
 {
-	box-shadow: 0 0 0 26em #85d3fa;
+	box-shadow: 0 0 0 30em #0fbcf9;
 
 }
 
@@ -63,7 +58,6 @@ body
 	transition: .4s line;
 }
 
-
 .preco
 {
 	font-size: 70px;
@@ -79,12 +73,10 @@ body
 	font-weight: 700;
 }
 
-
 .card-preco:hover, .card-preco:hover .preco
 {
 	color: #fff;
 }
-
 
 .card-preco li
 {
@@ -93,10 +85,11 @@ body
 	text-transform: uppercase;
 }
 
-
 .btn
 {
-	display: inline-block;
+	display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
 	margin-bottom: 40px;
 	margin-top: 80px;
 	border: 2px solid #0fbcf9;
@@ -107,7 +100,6 @@ body
 	font-weight: 500;
 	transition:  .3s linear;
 }
-
 
 .btn:hover
 {
@@ -123,4 +115,3 @@ body
 		flex: 50%;
 	}
 }
-
