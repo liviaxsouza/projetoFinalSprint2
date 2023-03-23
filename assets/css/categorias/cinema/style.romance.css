@@ -115,10 +115,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_homem {
+.flip_card_front_invisivel{
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/comdia/O\ Homem\ de\ Toronto.jpg");
+    background-image: url("./../../../images/cinema/romance/invisivel.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -126,10 +126,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_baywatch {
+.flip_card_front_mamma {
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/comdia/baywatch.jpg");
+    background-image: url("../../../images/cinema/romance/Mamma-Mia\ \(1\).jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
