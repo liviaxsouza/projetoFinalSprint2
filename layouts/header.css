@@ -15,6 +15,7 @@ nav {
   width: 60%;
   margin-left: 10px;
   padding-left: 10px;
+  padding-top: 13px;
 }
 
 nav ul {
@@ -110,10 +111,8 @@ header {
 }
 
 
-  
-
 h1 {
-  margin-left: 50px;
+  margin-left: 30px;
   padding-top: 36.5px;
   color: white;
   font-family: Arial;
@@ -168,7 +167,7 @@ input {
   outline: none;
   border-radius: 25px;
   transition: all .5s ease-in-out;
-  background-color: #000000;
+  background-color: #32425B;
   padding-right: 40px;
   color:#fff;
 }
