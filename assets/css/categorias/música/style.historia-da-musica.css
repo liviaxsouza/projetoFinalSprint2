@@ -95,3 +95,21 @@ h1 {
     padding-bottom: 10px;
 }
 
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.icon_text {
+    display: flex;
+}
+
+.img_stars {
+    padding-top: 18px;
+    padding-left: 10px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
