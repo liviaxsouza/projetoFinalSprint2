@@ -4,13 +4,16 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 325px;
     font-size: xx-large;
+    padding-bottom: -30px;
+    margin-top: 90px;
 }
 
 .class_h1 {
-    text-align: center;
+    text-align: left;
     color: rgb(29, 29, 29);
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
+    margin: 25px;
 }
 
 #imgsobrenos {
@@ -20,7 +23,7 @@ h1 {
 
 #section_imgsobrenos {
     text-align: center;
-    padding-top:80px; 
+    margin-top: -10px;
 }
 
 .section_sobrenos {
@@ -67,7 +70,7 @@ h1 {
     font-family: Arial;
     font-size:medium;
     text-align: justify;
-    padding-bottom: -60px;
+    margin-top: -12px;
 }
 
 #title_membros {
