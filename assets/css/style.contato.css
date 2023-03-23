@@ -10,13 +10,13 @@
 
 
 body{
-    background-color: rgb(93, 145, 186);
+    background-color: rgb(255, 255, 255);
     margin: auto;
     padding: 0px;
     font-family: Arial;
     margin-top: 0;
     border-radius: 50px;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -24,7 +24,7 @@ body{
 }
 
 h1 {
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: Arial;
     font-size: 40px;
     text-align: center;
@@ -59,7 +59,7 @@ input {
 form {
     display: flex;
     flex-direction: column;
-    margin-left: 300px;
+    margin-left: 200px;
     width: 30%;
     margin-top: 80px;
     margin-bottom: -90px;
@@ -84,9 +84,6 @@ form {
 }
 
 
-
-
-
 h2 {
     margin: auto;
     padding: 0px;
@@ -99,6 +96,11 @@ h2 {
     flex-direction: column;
     padding-top: -50px;
     padding-right: 380px;
+    margin-top: -70px;
+}
+
+h3 {
+    padding-left: 100px;
     margin-top: -70px;
 }
 
