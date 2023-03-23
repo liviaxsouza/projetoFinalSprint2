@@ -13,7 +13,7 @@ h1 {
     color: rgb(29, 29, 29);
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
-    margin: 25px;
+    margin: 30px;
 }
 
 #imgsobrenos {
@@ -152,5 +152,10 @@ h1 {
     padding-left: 10.5px;
     margin: 7.5px;
     margin-bottom: 22.5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
