@@ -1,0 +1,42 @@
+aside {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    -webkit-box-shadow: 0px 0px 16px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 16px -8px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 16px -8px rgba(0,0,0,0.75);
+    padding: 10px;
+    margin: 50px;
+    width: 30%;
+    float: right;
+  }
+
+  .p_aside {
+    font-family: Arial;
+  }
+
+  h6 {
+    font-family: Arial;
+    color: gray;
+    font-size: large;
+    padding-bottom: -5px;
+  }
+
+  .div_aside {
+
+  }
+
+  .botaoreco {
+    text-align: center;
+    border-radius: 100px;
+    border-color: rgb(228, 228, 228);
+  }
+
+  .reco {
+    text-align: center;
+  }
+
+  .reco1 {
+    text-align: center;
+    font-family: Arial;
+    color: rgb(36, 36, 36);
+  }
