@@ -62,4 +62,18 @@ h1 {
    #label1 {
     margin-right: 325px;
    }
+
+   
+    #Enviar{
+        text-align: center;
+        width: 60px;
+        border-radius: 20px;
+        background-color: rgb(123, 175, 214);
+        border: white;
+        margin: auto;
+        margin-top: 5px;
+        color: white;
+        
+    };
+   
    
