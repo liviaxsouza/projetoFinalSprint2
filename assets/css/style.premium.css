@@ -73,3 +73,10 @@ body
 }
 
 
+.preco sup, .preco span
+{
+	font-size: 22px;
+	font-weight: 700;
+}
+
+
