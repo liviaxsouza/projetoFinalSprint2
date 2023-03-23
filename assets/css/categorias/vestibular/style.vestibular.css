@@ -59,10 +59,16 @@ body {
     padding: 10px;
 }
 
-#title_vestibular {
-    text-align: center;
-    padding-left: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+#title_vestibular{
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+    text-align: justify;
 }
 
 .section_oqueé {
@@ -113,8 +119,31 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
 #section_gif {
     text-align: center;
     text-align: justify;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+    
 }
 
 #footer {
     height: 550px;
 }
+
+#section_background {
+    background-image: url("../../../images/Vestibular/Vestibularbanner.jpeg");
+    margin-top: -115px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 280px;
+}
+
+#texto-central {
+    padding-top: 200px;
+    text-align: center;
+}
+
