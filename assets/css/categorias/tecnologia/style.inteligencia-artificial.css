@@ -114,15 +114,3 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     padding-left: 10px;
 }
 
-#section_background {
-    background-image: url("../../../images/tecnologia/Imagem\ de\ fudo\ escuro.jpg");
-    margin-top: -100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#texto-central {
-    padding-top: 200px;
-    padding-bottom: 200px;
-    text-align: center;
-}
