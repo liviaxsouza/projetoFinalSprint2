@@ -29,3 +29,17 @@ body
 }
 
 
+.card-preco
+{
+	flex:1;
+	max-width: 360px;
+	background-color: #fff;
+	margin: 20px 10px;
+	text-align: center;
+	cursor: pointer;
+	overflow: hidden;
+	color: #2d2d2d;
+	transition: .3s linear;
+}
+
+
