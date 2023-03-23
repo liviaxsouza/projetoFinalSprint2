@@ -115,10 +115,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_invisivel{
+.flip_card_front_panico{
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/romance/invisivel.jfif");
+    background-image: url("./../../../images/cinema/terror/panico.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
