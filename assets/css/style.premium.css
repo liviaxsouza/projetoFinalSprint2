@@ -85,3 +85,12 @@ body
 	color: #fff;
 }
 
+
+.card-preco li
+{
+	font-size: 16px;
+	padding: 10px 0;
+	text-transform: uppercase;
+}
+
+
