@@ -88,6 +88,7 @@ h1 {
     padding-left: 15px;
     padding-right: 15px;
     color: gray;
+    margin: 15px;
 }
 
 .img_noticias {
@@ -105,7 +106,7 @@ h1 {
 }
 
 .img_stars {
-    padding-top: 18px;
+    padding-top: -5px;
     padding-left: 10px;
 }
 
@@ -144,3 +145,7 @@ h1 {
     margin-bottom: 22.5px;
 }
 
+* {
+    padding: 0;
+    margin: 0;
+}
