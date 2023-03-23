@@ -1,14 +1,14 @@
 h1 {
     text-align: center;
-    color: aliceblue;
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 29, 29);
+    font-family: Arial;
 }
 
 p {
     text-align: left;
     color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:medium;
+    font-family: Arial;
+    font-size: medium;
 }
 
 body {
@@ -16,18 +16,35 @@ body {
     margin: 0;
 }
 
-#imgmetodos{
+#imgoqueé {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
 }
 
-#section_imgmetodos {
+#section_imgoqueé {
     text-align: center;
     padding-top:80px;
 }
 
-.section_metodos {
+.section_oqueé {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    
+    font-size: medium;
+}
+
+#div_oqueé {
+    display: flex;
+    padding: 10px;
+}
+
+.section_oqueé2 {
     margin: auto;
     margin-top: 20px;
     padding: 10px;
@@ -36,86 +53,52 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
+    font-family: Arial;
+    font-size: medium;
 }
 
-#div_metodos{
+#div_oqueé2 {
     display: flex;
     padding: 10px;
 }
 
-.section_metodos1 {
-    margin: auto;
-    margin-top: 20px;
-    padding: 10px;
-    background-color: rgb(255, 255, 255);
-    width: 50%;
-    border-radius: 10px;
-    box-shadow: 10px;
-    display: flex;
-}
-
-#div_sobrenos1 {
-    display: flex;
-    padding: 10px;
-}
-
-#title_metodos {
+#title_oqueé {
     text-align: center;
     padding-left: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.section_metodos {
-    text-align: center;
-    width: 50%;
-    margin: auto;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding: 40px;
-    margin-left: 50px;
-    margin-right: 50px;
-    text-decoration: none;
-    border-radius: 10px;
-}
-
-.div_metodos {
-    display: flex;
-    text-align: center;
-    border-radius: 10px;
-}
-
-.text_metodos {
-    text-align: justify;
-    text-align: center;
-}
-
-#title_metodos {
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-top:80px;
-}
-
-
-
-#header {
-    height: 250px;
+    font-family: Arial;
 }
 
 #section_background {
-    background-image: url("../../../images/Vestibular/biblioteca.jpg");
+    background-image:url(../../../images/Vestibular/vestibular07.jpg);
     margin-top: -100px;
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
 }
+
 
 #texto-central {
     padding-top: 200px;
     padding-bottom: 200px;
     text-align: center;
+    font-size: x-large;
+    padding-top: 290px;
+    color: white;
 }
 
 .p_1{
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    padding-top: 15px;
+}
+
+
+#img_chapeu{
+    margin-left: 50px;
+}
+
+.topicos {
+    text-align: center;
+    justify-content: center;
 }
