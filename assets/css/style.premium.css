@@ -80,3 +80,8 @@ body
 }
 
 
+.card-preco:hover, .card-preco:hover .preco
+{
+	color: #fff;
+}
+
