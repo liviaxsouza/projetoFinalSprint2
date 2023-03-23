@@ -59,7 +59,7 @@ input {
 form {
     display: flex;
     flex-direction: column;
-    margin-left: 200px;
+    margin-left: 250px;
     width: 30%;
     margin-top: 80px;
     margin-bottom: -90px;
@@ -100,8 +100,12 @@ h2 {
 }
 
 h3 {
-    padding-left: 100px;
+    padding-left: 170px;
     margin-top: -70px;
+}
+
+p {
+    padding-left: 350px;
 }
 
 .div_loc {
