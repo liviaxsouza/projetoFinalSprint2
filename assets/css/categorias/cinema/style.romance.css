@@ -104,10 +104,10 @@ p {
 
 
 
-.flip_card_front_espiao {
+.flip_card_front_continecia {
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/comdia/espião.jpg");
+    background-image: url("./../../../images/cinema/romance/continencia.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
