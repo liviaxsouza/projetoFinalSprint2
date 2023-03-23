@@ -14,3 +14,27 @@
     transition: transform 0.8s;
     transform-style: preserve-3d;
 }
+
+.flip_card:hover  .flip_card_inner{
+    transform: rotateY(180deg);
+
+}
+
+.flip_card_front, .flip_card_back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    blackface-visibility: hidden;
+}
+
+.fçip_card_front {
+    background-color: #bbb;
+    color: black;
+}
+
+.flip_card_back {
+    background-color: white;
+    color:black;
+    transform:rotateY(180deg)
+}
