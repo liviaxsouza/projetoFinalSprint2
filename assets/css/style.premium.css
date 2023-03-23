@@ -43,3 +43,23 @@ body
 }
 
 
+.card-preco:hover .card-preco-header
+{
+	box-shadow: 0 0 0 26em #0fbcf9;
+
+}
+
+
+.card-preco-header
+{
+	background-color: #0fbcf9;
+	display: inline-block;
+	color: #fff;
+	padding: 12px 30px;
+	border-radius: 0 0 20px 20px;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 600;
+	transition: .4s line;
+}
+
