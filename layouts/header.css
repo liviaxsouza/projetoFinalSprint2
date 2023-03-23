@@ -1,3 +1,22 @@
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: -15px;
+  margin-left: 800px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  margin-top: -30px;
+}
+
+nav li{
+  margin-right: 20px;
+}
+
 .anav_1 {
   text-decoration: none;
   color: rgb(255, 255, 255);
@@ -40,55 +59,3 @@
   padding: 10px;
   border: 5px;
 }
-
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  margin-top: -30px;
-}
-
-nav li{
-  margin-right: 20px;
-}
-
-nav {
-  display: flex;
-  justify-content: center;
-  margin-top: -15px;
-  margin-left: 800px;
-}
-
-.anav_1:hover {
-  background-color:  rgb(92, 121, 146);
-  transition: 1s;
-  border-radius: 10px;
-}
-
-.anav_2:hover {
-  background-color: rgb(92, 121, 146);
-  transition: 1s;
-  border-radius: 10px;
-}
-
-.anav_3:hover {
-  background-color: rgb(92, 121, 146);
-  transition: 1s;
-  border-radius: 10px;
-}
-
-.anav_4:hover {
-  background-color: rgb(92, 121, 146);
-  transition: 1s;
-  border-radius: 10px;
-}
-
-.anav_5:hover {
-  background-color: rgb(92, 121, 146);
-  transition: 1s;
-  border-radius: 10px;
-}
-
-
-
