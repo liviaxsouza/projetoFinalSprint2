@@ -1,35 +1,53 @@
-header{
-    background-color:#32425B;
-    height: 100% ;
-    width: 100%;
-    margin: 0;
-    padding-top: 5px;
-    padding-bottom: 15px;
-}
-
-#section_1 {
-    text-align: center;
-}
-
-#div_1{
-    animation-name: spin;
-    animation-duration: 1s;
-    animation-iteration-count: initial;
-    animation-timing-function: linear;
-}
-@keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-
-}
-
-.anav_1 {
-    text-decoration: none;
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #32425b;
+    padding: 20px 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+  }
+  
+  nav {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
     color: white;
+    margin-right: 25px;
+    justify-content: center;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  input {
+    transition: 0,5s;
+    
+  }
+
+  .busca {
+    background-color: white;
+    background-image: url(lupabusca.png) no-repeat center right;
+    padding: 5px;
+    border: none;
+    width: 20px;
+    -webkit-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+
+  }
+
+  .busca:focus {
+    width: 200px;
+    border-bottom: solid 1px #ddd;
+    outline: none;
+  }
+
+  .anav_1 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
     font-family: Arial;
     font-size: large;
     padding: 10px;
@@ -37,7 +55,7 @@ header{
 }
 .anav_2 {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: Arial;
     font-size: large;
     padding: 10px;
@@ -45,7 +63,7 @@ header{
 }
 .anav_3{
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: Arial;
     font-size: large;
     padding: 10px;
@@ -54,62 +72,12 @@ header{
 
 .anav_4 {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: Arial;
     font-size: large;
     padding: 10px;
     border: 5px;
 }
 
-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    margin-top: -30px;
-}
 
-nav li{
-    margin-right: 30px;
-    margin-top: 30px;
-}
-
-nav {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.anav_1:hover {
-    background-color:  rgb(92, 121, 146);
-    transition: 1s;
-    border-radius: 10px;
-
-}
-
-.anav_2:hover {
-    background-color: rgb(92, 121, 146);
-    transition: 1s;
-    border-radius: 10px;
-}
-
-.anav_3:hover {
-    background-color: rgb(92, 121, 146);
-    transition: 1s;
-    border-radius: 10px;
-}
-
-.anav_4:hover {
-    background-color: rgb(92, 121, 146);
-    transition: 1s;
-    border-radius: 10px;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-}
-img {
-    margin-top: 10px;
-}
 
