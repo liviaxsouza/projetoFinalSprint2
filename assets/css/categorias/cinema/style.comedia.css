@@ -64,6 +64,42 @@ p {
     text-align: justify;
 }
 
+.flip_card_front_gente{
+    position: absolute;
+    width: 250px;
+    background-image: url("./../../../images/cinema/comdia/gente grande.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    border-radius: 20px;
+}
+
+
+.flip_card_front_esposa{
+    position: absolute;
+    width: 250px;
+    background-image: url("./../../../images/cinema/comdia/esposa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    border-radius: 20px;
+}
+
+.flip_card_front_familia{
+    position: absolute;
+    width: 250px;
+    background-image: url("./../../../images/cinema/comdia/familia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    border-radius: 20px;
+}
+
+
+
 .flip_card_front_espiao {
     position: absolute;
     width: 250px;
