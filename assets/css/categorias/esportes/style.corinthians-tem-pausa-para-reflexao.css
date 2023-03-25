@@ -248,5 +248,9 @@ h3 {
 }
 
 #text_credits {
+    color: gray;
+}
+
+#section_credits {
     margin-left: 365px;
 }
