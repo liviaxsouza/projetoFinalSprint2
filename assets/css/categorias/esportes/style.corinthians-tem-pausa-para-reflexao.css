@@ -28,6 +28,10 @@ body {
     margin: 0;
 }
 
+#text_1 {
+    margin-top: 2px;
+}
+
 #imgsobrenos {
     margin-top: 20px;
     margin-bottom: 30px;
@@ -101,9 +105,8 @@ body {
 #title_membros {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    padding-top:50px;
-    text-align: center;
-    margin-right: 300px;
+    padding-top: 50px;
+    margin-left: 290px;
 }
 
 .section_membros:hover {
@@ -249,6 +252,12 @@ h3 {
 
 #text_credits {
     color: gray;
+    font-size: 13px;
+}
+
+#text_date {
+    font-size: 13px;
+    padding-top: -15px;
 }
 
 #section_credits {
