@@ -124,3 +124,23 @@ h2 {
     padding-left: 10px;
     color: gray;
 }
+
+.button_assineja {
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:rgba(255, 255, 255, 1);
+    font-weight:bold;
+    border-top-left-radius:28px;
+    border-top-right-radius:28px;
+    border-bottom-left-radius:28px;
+    border-bottom-right-radius:28px;
+    background:rgba(50, 66, 91, 1);
+  }
+  
+  .button_assineja:hover {
+    background: rgba(118, 138, 165, 1)
+  }
