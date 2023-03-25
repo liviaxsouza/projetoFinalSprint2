@@ -17,6 +17,10 @@ body {
     margin: 0;
 }
 
+#text_1 {
+    margin-top: 2px;
+}
+
 #imgsobrenos {
     margin-top: 20px;
     margin-bottom: 30px;
