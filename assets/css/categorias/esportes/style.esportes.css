@@ -239,3 +239,7 @@ body {
     position: relative;
     top: 1px;
 }
+
+.title_noticias {
+    text-align: left;
+}
