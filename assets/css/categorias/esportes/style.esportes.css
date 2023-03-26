@@ -82,6 +82,7 @@ body {
 }
 
 #div_esportes1 {
+    text-align: center;
     padding: 10px;
 }
 
@@ -244,5 +245,7 @@ body {
 }
 
 #p_gif {
+    text-align: justify;
     width: 50%;
+    margin-left: 350px;
 }
