@@ -117,3 +117,7 @@ body
 		flex: 50%;
 	}
 }
+
+#footer {
+	margin-bottom: -5px;
+}
