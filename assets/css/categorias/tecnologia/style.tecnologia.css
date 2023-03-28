@@ -401,3 +401,8 @@ a {
 #section_credits {
     margin-left: 325px;  
 }
+
+.borda_comentarios {
+    margin-bottom: 20px;
+    resize: none;
+}
