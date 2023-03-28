@@ -115,10 +115,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_panico{
+.flip_card_front_auto{
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/terror/panico.jfif");
+    background-image: url("./../../../images/cinema/nacionais/O\ AUTO\ DA\ COMPADECIDA.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
