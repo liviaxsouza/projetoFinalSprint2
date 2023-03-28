@@ -133,6 +133,7 @@ h3 {
     padding-left: 15px;
     width: 940px;
     margin-left: 15px;
+    color: black;
 }
 
 .img_noticias {
@@ -195,6 +196,7 @@ h3 {
 
 .title_noticias {
     text-align: left;
+    color: black;
 }
  
 a {
