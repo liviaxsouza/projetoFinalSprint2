@@ -115,10 +115,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_panico{
+.flip_card_front_torre{
     position: absolute;
     width: 250px;
-    background-image: url("./../../../images/cinema/terror/panico.jfif");
+    background-image: url("./../../../images/cinema/ficçao/download\ \(1\).jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -126,10 +126,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_mal {
+.flip_card_front_gravidade {
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/terror/Midsommar\ \(1\).jfif");
+    background-image: url("../../../images/cinema/ficçao/sandra.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -138,10 +138,10 @@ p {
 }
 
 
-.flip_card_front_corra {
+.flip_card_front_amor {
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/terror/Corra!.jfif");
+    background-image: url("../../../images/cinema/ficçao/download\ \(2\).jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -149,10 +149,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_nos{
+.flip_card_front_vingadores{
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/terror/nos.jfif");
+    background-image: url("../../../images/cinema/ficçao/Vingadores.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
