@@ -114,3 +114,22 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
 #img_1 {
     padding-left: 10px;
 }
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
+
+#section_credits {
+    margin-left: 325px;  
+}
