@@ -9,6 +9,10 @@ p {
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size:medium;
+    text-align: justify;
+    padding-bottom: -60px;
+    
+
 }
 
 body {
@@ -102,11 +106,10 @@ body {
 }
 
 #section_background {
-    background-image: url("../../../images/Vestibular/apps.jfif");
-    margin-top: -100px;
+    margin-top: -200px;
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 #texto-central {
@@ -118,4 +121,15 @@ body {
 .p_1{
     text-align: center;
     color: rgb(255, 255, 255);
+}
+
+#div_apps {
+    text-align: center;
+    text-align: justify;
+
+}
+
+#div_apps2 {
+    text-align: center;
+    text-align: justify;
 }
