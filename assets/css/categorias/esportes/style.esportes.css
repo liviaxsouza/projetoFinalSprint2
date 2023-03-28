@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 
 p {
@@ -10,6 +11,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     text-align: justify;
+    text-decoration: none;
 }
 
 body {
@@ -82,7 +84,7 @@ body {
 }
 
 #div_esportes1 {
-    display: flex;
+    text-align: center;
     padding: 10px;
 }
 
@@ -238,4 +240,39 @@ body {
 .title_categorias:active {
     position: relative;
     top: 1px;
+}
+
+.title_noticias {
+    text-align: left;
+}
+
+#p_gif {
+    text-align: justify;
+    width: 50%;
+    margin-left: 310px;
+    margin-top: -65px;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
+
+#section_credits {
+    margin-left: 315px;
+    padding-top: 15px;
+}
+
+a {
+    text-decoration: none;
 }

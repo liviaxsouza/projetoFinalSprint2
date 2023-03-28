@@ -1,0 +1,195 @@
+h1 {
+    text-align: left;
+    color: rgb(29, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 325px;
+    font-size: xx-large;
+    padding-bottom: -30px;
+    margin-top: 90px;
+}
+
+.class_h1 {
+    text-align: left;
+    color: rgb(29, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    margin: 20px;
+    margin-left: -5px;
+}
+
+#imgsobrenos {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#section_imgsobrenos {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.section_sobrenos {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+#div_sobrenos {
+    display: flex;
+    padding: 10px;
+}
+
+.section_sobrenos1 {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px;
+    display: flex;
+}
+
+#div_sobrenos1 {
+    display: flex;
+    padding: 10px;
+}
+
+#title_sobrenos {
+    text-align: center;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p_text {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size:medium;
+    text-align: justify;
+    margin-top: -12px;
+}
+
+#title_membros {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+
+.section_noticias {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 40px;
+    padding-top: 15px;
+    padding-left: 15px;
+    width: 940px;
+    margin-left: 150px;
+}
+
+.img_textN {
+    display: flex;
+}
+
+.img_tb {
+    padding-top: 30px;
+}
+
+.text_noticias {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: gray;
+    margin: 15px;
+}
+
+.img_noticias {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.icon_text {
+    display: flex;
+}
+
+.img_stars {
+    padding-top: -5px;
+    padding-left: 10px;
+
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
+
+.title_categorias {
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+}
+
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.class_h3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: arial;
+    padding-top: 30px;
+
+}
+
+.borda_coment {
+    padding-right: 1000px;
+    padding-bottom: 225px;
+    padding-top: 13px;
+    padding-left: 10.5px;
+    margin: 7.5px;
+    margin-bottom: 22.5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+    font-family: arial;
+    padding: -100px;
+    padding-left: 0px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 20px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+    font-family: arial;
+}
+
+#section_credits {
+    margin-left: 325px;
+    font-family: arial;
+}
+

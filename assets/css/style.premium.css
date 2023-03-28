@@ -97,8 +97,10 @@ body
 	padding: 18px 40px;
 	border-radius:  8px;
 	text-transform:  uppercase;
-	font-weight: 500;
 	transition:  .3s linear;
+	text-align: center;
+	padding-left: 65px;
+	padding-right: 20px;
 }
 
 .btn:hover
@@ -114,4 +116,8 @@ body
 	{
 		flex: 50%;
 	}
+}
+
+#footer {
+	margin-bottom: -5px;
 }
