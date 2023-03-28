@@ -145,23 +145,16 @@ h1 {
     margin-right: 45px;
 }
 
-.class_h3 {
-    color: rgb(0, 0, 0);
-    font-size: 20px;
-    margin-bottom: 15px;
-    text-align: left;
-    font-family: arial;
-    padding-top: 30px;
-
+.borda_comentarios {
+    resize: none;
+    margin-bottom: 20px;
+    margin-left: 45px;
 }
-
-.borda_coment {
-    padding-right: 1000px;
-    padding-bottom: 225px;
-    padding-top: 13px;
-    padding-left: 10.5px;
-    margin: 7.5px;
-    margin-bottom: 22.5px;
+ 
+.class_h3 {
+    margin-left: 45px;
+    font-family: arial;
+    padding-bottom: 20px;
 }
 
 * {
