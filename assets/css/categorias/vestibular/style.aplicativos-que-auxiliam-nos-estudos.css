@@ -4,25 +4,12 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
-    text-align: center;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:medium;
-    text-align: justify;
-    padding-bottom: -70px;
-    width: 50%;
-    margin-left: 330px;
-    
-
-}
-
 body {
     background-color: #ffff;
     margin: 0;
 }
 
-#imgmetodos{
+#imgmetodos {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
@@ -30,7 +17,7 @@ body {
 
 #section_imgmetodos {
     text-align: center;
-    padding-top:80px;
+    padding-top: 80px;
 }
 
 .section_metodos {
@@ -44,7 +31,7 @@ body {
     display: flex;
 }
 
-#div_metodos{
+#div_metodos {
     display: flex;
     padding: 10px;
 }
@@ -98,7 +85,7 @@ body {
 #title_metodos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    padding-top:80px;
+    padding-top: 80px;
 }
 
 
@@ -121,19 +108,37 @@ body {
     margin-top: -90px;
 }
 
-.p_1{
+.p_1 {
     text-align: center;
     color: rgb(255, 255, 255);
 }
 
 #div_apps {
-    text-align: center;
     text-align: justify;
-    margin-top: -60px;
+    margin: 0 auto;
+    width: 50em;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
 #div_apps2 {
-    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.pai_article {
     text-align: justify;
+    margin: 0 auto;
+    width: 50em;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#footer {
+    height: 550px;
+}
+
+.section_apps2 {
+    font-family: Arial, Helvetica, sans-serif;
+
 }
