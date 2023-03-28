@@ -229,3 +229,27 @@ a {
     margin-bottom: 22.5px;
 }
 
+#text_credits {
+    color: gray;
+    font-size: 13px;
+    font-family: arial;
+    padding: 3px;
+    padding-left: 0px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+    font-family: arial;
+}
+
+#section_credits {
+    margin-left: 325px;
+    font-family: arial;
+}
+

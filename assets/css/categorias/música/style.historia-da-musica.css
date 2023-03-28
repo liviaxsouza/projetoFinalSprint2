@@ -43,9 +43,11 @@ h1 {
     display: flex;
 }
 
-.title_membros {
-    margin-top: 50px;
 
+#title_membros {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
 }
 
 #div_sobrenos1 {
@@ -147,4 +149,28 @@ h1 {
 * {
     padding: 0;
     margin: 0;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+    font-family: arial;
+    padding: 20px;
+    padding-left: 0px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+    font-family: arial;
+}
+
+#section_credits {
+    margin-left: 365px;
+    font-family: arial;
 }
