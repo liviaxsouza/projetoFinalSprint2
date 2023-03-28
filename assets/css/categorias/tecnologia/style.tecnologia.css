@@ -382,3 +382,22 @@ a {
     margin: 7.5px;
     margin-bottom: 22.5px;
 }
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
+
+#section_credits {
+    margin-left: 325px;  
+}

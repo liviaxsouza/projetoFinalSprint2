@@ -82,7 +82,7 @@ body {
 }
 
 #div_esportes1 {
-    display: flex;
+    text-align: center;
     padding: 10px;
 }
 
@@ -239,3 +239,35 @@ body {
     position: relative;
     top: 1px;
 }
+
+.title_noticias {
+    text-align: left;
+}
+
+#p_gif {
+    text-align: justify;
+    width: 50%;
+    margin-left: 310px;
+    margin-top: -65px;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+}
+
+#section_credits {
+    margin-left: 315px;
+    padding-top: 15px;
+}
+
