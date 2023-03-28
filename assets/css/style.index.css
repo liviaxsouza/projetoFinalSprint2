@@ -159,3 +159,8 @@ h2 {
     background: rgba(118, 138, 165, 1);
     text-decoration: none;
   }
+
+  .title_artigos {
+    text-align: left;
+    font-size: 20px;
+  }
