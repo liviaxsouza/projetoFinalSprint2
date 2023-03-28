@@ -126,10 +126,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_mamma {
+.flip_card_front_mal {
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/romance/Mamma-Mia\ \(1\).jfif");
+    background-image: url("../../../images/cinema/terror/Midsommar\ \(1\).jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -138,10 +138,10 @@ p {
 }
 
 
-.flip_card_front_proposta {
+.flip_card_front_corra {
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/romance/A\ Proposta\ .jfif");
+    background-image: url("../../../images/cinema/terror/Corra!.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -149,10 +149,10 @@ p {
     border-radius: 20px;
 }
 
-.flip_card_front_odeio{
+.flip_card_front_nos{
     position: absolute;
     width: 250px;
-    background-image: url("../../../images/cinema/romance/10.jfif");
+    background-image: url("../../../images/cinema/terror/nos.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
