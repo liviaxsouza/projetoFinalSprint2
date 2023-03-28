@@ -473,15 +473,6 @@ a {
 
 .title_noticias {
     text-align: left;
+    padding-left: 5px;
 }
 
-.borda_comentarios {
-    resize: none;
-    margin-bottom: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.class_h3 {
-    margin-left: 45px;
-    font-family: Arial, Helvetica, sans-serif;
-}
