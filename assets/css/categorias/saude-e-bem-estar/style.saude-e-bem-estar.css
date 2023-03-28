@@ -322,4 +322,23 @@ a {
     padding-top: 200px;
     padding-bottom: 290px;
     text-align: center;
+    }#text_credits {
+        color: gray;
+        font-size: 13px;
     }
+    
+    .text_publicado {
+        padding-left: 205px;
+        padding-bottom: 15px;
+    }
+    
+    .text_date {
+        padding-left: 10px;
+        color: gray;
+    }
+    
+    #section_credits {
+        margin-left: 365px;
+        margin-left: 320px;
+    }
+
