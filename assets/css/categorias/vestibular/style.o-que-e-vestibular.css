@@ -12,7 +12,6 @@ p {
 }
 
 body {
-    background-color: #ffff;
     margin: 0;
 }
 
@@ -35,8 +34,8 @@ body {
     width: 50%;
     border-radius: 10px;
     box-shadow: 10px;
-    display: flex;
     font-size: medium;
+    display: flex;
 }
 
 #div_oqueé {
@@ -112,6 +111,7 @@ body {
 
 #section_credits {
     margin-left: 365px;
+    
 }
 
 h3 {
