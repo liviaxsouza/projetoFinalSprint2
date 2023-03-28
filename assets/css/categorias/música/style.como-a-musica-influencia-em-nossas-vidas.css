@@ -166,8 +166,10 @@ h1 {
 .text_date {
     padding-left: 10px;
     color: gray;
+    font-family: arial;
 }
 
 #section_credits {
     margin-left: 365px;
+    font-family: arial;
 }
