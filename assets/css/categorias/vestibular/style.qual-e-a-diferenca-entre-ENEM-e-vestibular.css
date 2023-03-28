@@ -196,5 +196,9 @@ h3 {
 .title_noticias {
     text-align: left;
 }
+ 
+a {
+    text-decoration: none;
+}
 
 
