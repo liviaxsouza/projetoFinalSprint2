@@ -174,3 +174,22 @@ h1 {
     margin-left: 365px;
     font-family: arial;
 }
+
+.borda_comentarios {
+    resize: none;
+    margin-bottom: 20px;
+    margin-left: 45px;
+}
+ 
+.class_h3 {
+    margin-left: 45px;
+    font-family: arial;
+    padding-bottom: 20px;
+}
+
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
+}
