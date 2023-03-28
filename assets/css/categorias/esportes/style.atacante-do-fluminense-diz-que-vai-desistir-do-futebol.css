@@ -236,13 +236,8 @@ a {
 }
 
 .borda_comentarios {
-    padding-right: 1050px;
-    padding-bottom: 225px;
-    padding-top: 10.5px;
-    padding-left: 10.5px;
-    margin: 7.5px;
     margin-bottom: 22.5px;
-    width: 90px;
+    resize: none;
 }
 
 h3 {
