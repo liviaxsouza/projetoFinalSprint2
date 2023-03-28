@@ -69,19 +69,15 @@ body {
 }
 
 #section_background {
-    
-    margin-top: -100px;
+    margin-top: 200px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 
 #texto-central {
-    padding-top: 200px;
-    padding-bottom: 200px;
     text-align: center;
     font-size: x-large;
-    padding-top: 290px;
     color: white;
 }
 
@@ -116,7 +112,6 @@ body {
 
 #section_credits {
     margin-left: 365px;
-    margin-top: -290px;
 }
 
 h3 {
