@@ -21,7 +21,11 @@ body {
 }
 
 #containerArticle {
-    margin-top: -50px;
+    cursor: pointer;
+}
+
+a {
+    cursor: pointer;
 }
 
 #section_noticiaprincipal {
@@ -33,12 +37,14 @@ body {
     height: 750px;
     padding-top: 15px;
     margin: auto;
+    text-decoration: none;
 }
 
 h1 {
     font-size: 30px;
     text-align: center;
     padding-top: 10px;
+    text-decoration: none;
 }
 
 h2 {
@@ -62,12 +68,18 @@ h2 {
 
 .title_categorias:hover {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
-    background-color: #32425b;
+    background-color: #32425B;
+    text-decoration: none;
 }
 
 .title_categorias:active {
     position: relative;
     top: 1px;
+    text-decoration: none;
+}
+
+.text_principal {
+    text-decoration: none;
 }
 
 #icons {
@@ -79,6 +91,7 @@ h2 {
 
 .class_icons {
     margin-top: 15px;
+    text-decoration: none;
 }
 
 .section_noticias {
@@ -139,8 +152,10 @@ h2 {
     border-bottom-left-radius:28px;
     border-bottom-right-radius:28px;
     background:rgba(50, 66, 91, 1);
+    text-decoration: none;
   }
   
   .button_assineja:hover {
-    background: rgba(118, 138, 165, 1)
+    background: rgba(118, 138, 165, 1);
+    text-decoration: none;
   }
