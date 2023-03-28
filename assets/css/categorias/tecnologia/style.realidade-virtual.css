@@ -213,8 +213,13 @@ a {
 .borda_comentarios {
     resize: none;
     margin-bottom: 20px;
+    margin-left: 45px;
 }
 
 p {
     margin-right: 10px;
+}
+
+.class_h3 {
+    margin-left: 45px;
 }
