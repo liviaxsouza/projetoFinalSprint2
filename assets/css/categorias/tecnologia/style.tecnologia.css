@@ -404,4 +404,5 @@ a {
 
 .borda_comentarios {
     margin-bottom: 20px;
+    resize: none;
 }
