@@ -188,7 +188,7 @@ a {
 
 #section_background {
     background-image: url("../../../images/musica/musica2.jpg");
-    margin-top: -105px;
+    margin-top: -120px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -227,5 +227,29 @@ a {
     padding-left: 10.5px;
     margin: 7.5px;
     margin-bottom: 22.5px;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+    font-family: arial;
+    padding: 3px;
+    padding-left: 0px;
+}
+
+.text_publicado {
+    padding-left: 205px;
+    padding-bottom: 15px;
+}
+
+.text_date {
+    padding-left: 10px;
+    color: gray;
+    font-family: arial;
+}
+
+#section_credits {
+    margin-left: 325px;
+    font-family: arial;
 }
 
