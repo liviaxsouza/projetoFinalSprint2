@@ -158,3 +158,10 @@ body {
     text-align: left;
     padding-left: 0;
 }
+
+
+/*Comentários*/
+.borda_comentarios {
+    margin-bottom: 22.5px;
+    resize: none;
+}
