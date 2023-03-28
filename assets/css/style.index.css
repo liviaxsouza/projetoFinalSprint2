@@ -33,8 +33,7 @@ a {
     -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
-    width: 670px;
-    height: 750px;
+    width: 90%;
     padding-top: 15px;
     margin: auto;
     text-decoration: none;
@@ -88,8 +87,8 @@ h2 {
 
 #icons {
     display: flex;
-    padding-left: 255px;
-    padding-right: 255px;
+    padding-left: 455px;
+    padding-right: 455px;
     justify-content: space-between;
 }
 
@@ -105,7 +104,7 @@ h2 {
     margin-top: 40px;
     padding-top: 15px;
     padding-left: 15px;
-    width: 940px;
+    width: 90%;
     margin-left: 15px;
 }
 
@@ -171,4 +170,71 @@ h2 {
 
   a {
     text-decoration: none;
+  }
+
+  #containerEsquerdo{
+    width: 70%;
+    padding: 10px;
+
+  }
+
+  #containerGeral{
+    display: flex;
+  }
+
+  #containerDireito{
+    width: 30%;
+    margin-top: 40px;
+    padding: 10px;
+  }
+
+  #cardAside{
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    width: 100%;
+    height: 100%;
+  }
+
+  .cardNewsTitle p{
+    text-align: center;
+    font-size: 20px;
+    padding: 10% ;
+    margin: 0;
+    font-weight: bold;
+  }
+
+  
+  .lista {
+    margin: 0;
+    border-bottom: 1px solid rgb(236, 236, 236);
+    padding: 16px 0;
+    list-style-type: none;
+  }
+  
+  .lista li {
+    background-color: #f2f2f2;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .listaLateral{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  .lista li::before {
+    content: "•";
+    color: #32425b;
+    left: 10px; 
+    margin-right: 10px;
+    font-size: 20px;
+  }
+
+  .linkNews{
+    text-decoration: none;
+    color: black;
   }
