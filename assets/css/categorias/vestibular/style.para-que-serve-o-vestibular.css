@@ -8,7 +8,8 @@ p {
     text-align: left;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
-    font-size:larger;
+    font-size: medium;
+
 }
 
 body {
@@ -40,6 +41,7 @@ body {
     border-radius: 10px;
     box-shadow: 10px;
     display: flex;
+    
 }
 
 #div_pqserve {
@@ -132,7 +134,8 @@ h3 {
 
 #section_credits {
     margin-left: 365px;
-    padding-left: 119px;
+    
+
 }
 
 #footer {
@@ -146,8 +149,9 @@ h3 {
     margin-top: 40px;
     padding-top: 15px;
     padding-left: 15px;
-    width: 940px;
     margin-left: 15px;
+    width: 75%;
+    color: black;
 }
 
 .img_noticias {
@@ -171,6 +175,7 @@ h3 {
 
 .icon_text {
     display: flex;
+    color: black;
 }
 
 .img_stars {
