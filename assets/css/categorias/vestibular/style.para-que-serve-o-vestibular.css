@@ -116,6 +116,8 @@ h3 {
 #text_credits {
     color: gray;
     font-size: 13px;
+    margin-top: -235px;
+    
 }
 
 .text_publicado {
@@ -130,4 +132,9 @@ h3 {
 
 #section_credits {
     margin-left: 365px;
+    padding-left: 119px;
+}
+
+#footer {
+    height: 550px;
 }
