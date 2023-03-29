@@ -1,26 +1,26 @@
-/* ediçao do h1
+/* ediçao do h1 */
 h1 {
     text-align: center;
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
 }
-/* ediçao do boody 
+/* ediçao do boody */
 body {
     background-color: #ffff;
     margin: 0;
 }
-/*ediçao imagem metodos 
+/*ediçao imagem metodos */
 #imgmetodos {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
 }
-/* ediçao da imagem todos
+/* ediçao da imagem todos */
 #section_imgmetodos {
     text-align: center;
     padding-top: 80px;
 }
-
+/* ediçao dos metodos section */
 .section_metodos {
     margin: auto;
     margin-top: 20px;
@@ -31,12 +31,12 @@ body {
     box-shadow: 10px;
     display: flex;
 }
-
+/* ediçao dos metodos div */
 #div_metodos {
     display: flex;
     padding: 10px;
 }
-
+/* ediçao metodos section 1 */
 .section_metodos1 {
     margin: auto;
     margin-top: 20px;
@@ -47,18 +47,18 @@ body {
     box-shadow: 10px;
     display: flex;
 }
-
+/* ediçao sobre nos div */
 #div_sobrenos1 {
     display: flex;
     padding: 10px;
 }
-
+/* ediçao do titulo dos metodos */
 #title_metodos {
     text-align: center;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/* ediçao metodos section */
 .section_metodos {
     text-align: center;
     width: 50%;
@@ -71,18 +71,18 @@ body {
     text-decoration: none;
     border-radius: 10px;
 }
-
+/* ediçao metodos div */
 .div_metodos {
     display: flex;
     text-align: center;
     border-radius: 10px;
 }
-
+/* ediçao metodos texto */
 .text_metodos {
     text-align: justify;
     text-align: center;
 }
-
+/* ediçao do titulo dos metodos */
 #title_metodos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
