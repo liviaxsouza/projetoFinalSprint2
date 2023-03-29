@@ -71,7 +71,7 @@ h1 {
     font-family: Arial;
     font-size:medium;
     text-align: justify;
-    margin-top: -12px;
+    
 }
 
 #title_membros {
@@ -94,6 +94,7 @@ h1 {
     padding-left: 15px;
     width: 940px;
     margin-left: 15px;
+    text-decoration: none;
 }
 
 .img_noticias {
@@ -108,11 +109,14 @@ h1 {
 .text_noticias {
     padding-left: 15px;
     color: gray;
+    font-family: arial;
 }
 
 .text_publicado {
     padding-left: 205px;
     padding-bottom: 15px;
+    font-family: arial;
+    text-decoration: none;
 }
 
 .icon_text {
@@ -127,6 +131,7 @@ h1 {
 .text_date {
     padding-left: 10px;
     color: gray;
+    font-family: arial;
 }
 
 #text_credits {
