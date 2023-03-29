@@ -263,117 +263,6 @@ h1 {
     padding-top: 15px;
     padding-left: 15px;
     width: 940px;
-    margin-left: 150px;
-}
-
-.img_noticias {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-.img_textN {
-    display: flex;
-}
-
-.text_noticias {
-    padding-left: 15px;
-    padding-right: 15px;
-    color: gray;
-}
-
-.text_publicado {
-    padding-left: 205px;
-    padding-bottom: 15px;
-}
-
-.icon_text {
-    display: flex;
-}
-
-.img_stars {
-    padding-top: 18px;
-    padding-left: 10px;
-}
-
-.text_date {
-    padding-left: 10px;
-    color: gray;
-}
-
-.title_categorias {
-    text-decoration: none;
-    color: black;
-    font-family: arial;
-}
-
-a {
-    text-decoration: none;
-    color: black;
-}
-
-#section_background {
-    background-image: url("../../../images/musica/musica2.jpg");
-    margin-top: -120px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#texto-central {
-    padding-top: 180px;
-    padding-bottom: 350px;
-    text-align: center;
-}
-#article_comentarios {
-    display: flex;
-    justify-content: space-between;
-    margin-left: 45px;
-    margin-right: 45px;
-}
-
-.borda_comentarios {
-    resize: none;
-    margin-bottom: 20px;
-    margin-left: 45px;
-}
- 
-.class_h3 {
-    margin-left: 45px;
-    font-family: arial;
-    padding-bottom: 20px;
-}
-
-#text_credits {
-    color: gray;
-    font-size: 13px;
-    font-family: arial;
-    padding: 3px;
-    padding-left: 0px;
-}
-
-.text_publicado {
-    padding-left: 205px;
-    padding-bottom: 15px;
-}
-
-.text_date {
-    padding-left: 10px;
-    color: gray;
-    font-family: arial;
-}
-
-#section_credits {
-    margin-left: 325px;
-    font-family: arial;
-}
-
-.section_noticias {
-    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
-    margin-top: 40px;
-    padding-top: 15px;
-    padding-left: 15px;
-    width: 940px;
     margin-left: 15px;
 }
 
@@ -389,11 +278,13 @@ a {
 .text_noticias {
     padding-left: 15px;
     color: gray;
+    font-family: arial;
 }
 
 .text_publicado {
     padding-left: 205px;
     padding-bottom: 15px;
+    font-family: arial;
 }
 
 .icon_text {
@@ -408,6 +299,7 @@ a {
 .text_date {
     padding-left: 10px;
     color: gray;
+    font-family: arial;
 }
 
 .title_categorias {
@@ -425,7 +317,10 @@ a {
     margin-right: 550px;
 }
 
-
+.title_categorias:hover {
+    background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
+    background-color: #32425b;
+}
 
 .title_categorias:active {
     position: relative;
@@ -435,5 +330,11 @@ a {
 .title_noticias {
     text-align: left;
     padding-left: 5px;
+    font-size: x-large;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
+a {
+    text-decoration: none;
+}

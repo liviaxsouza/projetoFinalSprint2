@@ -93,11 +93,14 @@ h1 {
 .text_noticias {
     padding-left: 15px;
     color: gray;
+    font-family: arial;
 }
 
 .text_publicado {
     padding-left: 205px;
     padding-bottom: 15px;
+    font-family: arial;
+    text-decoration: none;
 }
 
 .icon_text {
@@ -107,11 +110,31 @@ h1 {
 .img_stars {
     padding-top: 18px;
     padding-left: 10px;
+    
 }
 
 .text_date {
     padding-left: 10px;
     color: gray;
+    font-family: arial;
+}
+
+#section_credits {
+    margin-left: 325px;
+    font-family: arial;
+}
+
+.class_h3 {
+    margin-left: 45px;
+    font-family: arial;
+    padding-bottom: 20px;
+}
+
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
 }
 
 .title_categorias {
@@ -145,4 +168,25 @@ h1 {
     font-size: x-large;
     margin-bottom: 20px;
     margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+iframe {
+    bottom: 0%;
+    margin-bottom: -5px;
+}
+
+* {
+    margin: 0;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+    font-family: arial;
+    padding: 3px;
+    padding-left: 0px;
 }
