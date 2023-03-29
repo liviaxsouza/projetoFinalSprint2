@@ -1,31 +1,32 @@
+/* ediçao h1*/
 h1 {
     text-align: center;
     color: rgb(29, 29, 29);
     font-family: Arial;
 }
-
+/* ediçao paragrafo */
 p {
     text-align: left;
     color: rgb(0, 0, 0);
     font-family: Arial;
     font-size: medium;
 }
-
+/* ediçao do body*/
 body {
     margin: 0;
 }
-
+/* ediçao da imagem diferença */
 #imgdiferenca {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
 }
-
+/* ediçao section imagem diferença*/
 #section_imgdiferenca {
     text-align: center;
     padding-top:80px;
 }
-
+/* ediçao section diferença */
 .section_diferenca {
     margin: auto;
     margin-top: 20px;
@@ -37,12 +38,12 @@ body {
     font-size: medium;
     display: flex;
 }
-
+/* ediçao div diferença */
 #div_diferenca {
     display: flex;
     padding: 10px;
 }
-
+/* ediçao section diferença 2 */
 .section_diferenca2 {
     margin: auto;
     margin-top: 20px;
@@ -55,31 +56,31 @@ body {
     font-family: Arial;
     font-size: medium;
 }
-
+/* ediçao div diferença 2 */
 #div_diferenca2 {
     display: flex;
     padding: 10px;
 }
-
+/* ediçao titulo diferença */
 #title_diferenca {
     text-align: center;
     padding-left: 10px;
     font-family: Arial;
 }
-
+/* ediçao background */
 #section_background {
     margin-top: 200px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-
+/* ediçao texto central */
 #texto-central {
     text-align: center;
     font-size: x-large;
     color: white;
 }
-
+/* ediçao do p_1*/
 .p_1{
     text-align: center;
     color: white;
@@ -88,7 +89,7 @@ body {
     padding-top: 15px;
 }
 
-
+/* ediçao imagem do chapeu */
 #img_chapeu{
     margin-left: 50px;
 }
