@@ -244,6 +244,8 @@ h1 {
 .text_publicado {
     padding-left: 205px;
     padding-bottom: 15px;
+    color: black;
+    font-family: arial;
 }
 
 .text_date {
