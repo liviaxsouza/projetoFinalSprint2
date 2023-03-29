@@ -265,7 +265,7 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     display: flex;
     text-align: justify;
 }
-
+/* ediçao section noticias */
 .section_noticias {
     -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
@@ -276,40 +276,40 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     width: 940px;
     margin-left: 15px;
 }
-
+/* ediçao imagem noticias */
 .img_noticias {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
+/* ediçao de imagem */
 .img_textN {
     display: flex;
 }
-
+/* ediçao texto noticias */
 .text_noticias {
     padding-left: 15px;
     color: gray;
 }
-
+/* ediçao publicado texto */
 .text_publicado {
     padding-left: 205px;
     padding-bottom: 15px;
 }
-
+/* ediçao icone */
 .icon_text {
     display: flex;
 }
-
+/* ediçao da imagem das estrelas*/
 .img_stars {
     padding-top: 18px;
     padding-left: 10px;
 }
-
+/* ediçao texto data*/
 .text_date {
     padding-left: 10px;
     color: gray;
 }
-
+/* ediçao titulo das categorias */
 .title_categorias {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
     background-color: #32425b;
@@ -324,21 +324,21 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     text-decoration: none;
     margin-right: 550px;
 }
-
+/* ediçao categorias titulo */
 .title_categorias:hover {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
     background-color: #32425b;
 }
-
+/* ediçao da categoria titulo */
 .title_categorias:active {
     position: relative;
     top: 1px;
 }
-
+/* ediçao da noticia titulos */
 .title_noticias {
     text-align: left;
 }
-
+/* remoçao do hiperlink */
 a {
     text-decoration: none;
 }
