@@ -1,20 +1,21 @@
+/* ediçao do h1
 h1 {
     text-align: center;
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/* ediçao do boody 
 body {
     background-color: #ffff;
     margin: 0;
 }
-
+/*ediçao imagem metodos 
 #imgmetodos {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
 }
-
+/* ediçao da imagem todos
 #section_imgmetodos {
     text-align: center;
     padding-top: 80px;

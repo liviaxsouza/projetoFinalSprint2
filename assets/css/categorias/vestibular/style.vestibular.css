@@ -1,32 +1,38 @@
+/* ediçao do h1
+
 h1 {
     text-align: center;
     color: rgb(29, 29, 29);
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*ediçao do p 
 p {
     text-align: center;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size:medium;
 }
-
+/*ediça do boddy
 body {
     background-color: #ffff;
     margin: 0;
 }
 
+/*ediçao da imagem
 #imgsobrenos {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
 }
 
+/* ediçao imagem sobre nos 
 #section_imgsobrenos {
     text-align: center;
     padding-top:80px;
 }
 
+/* ediçao sobre nos 
 .section_sobrenos {
     margin: auto;
     margin-top: 20px;
@@ -38,11 +44,13 @@ body {
     display: flex;
 }
 
+/* ediçao div vestibular 
 #div_vestibular{
     display: flex;
     padding: 10px;
 }
 
+/* ediçao section vestibular 
 .section_vestibular {
     margin: auto;
     margin-top: 20px;
@@ -54,11 +62,13 @@ body {
     display: flex;
 }
 
+/* ediçao div vestibular
 #div_vestibular {
     display: flex;
     padding: 10px;
 }
 
+/* ediçao titulo do vestibular 
 #title_vestibular {
     text-align: center;
     padding-left: 10px;
@@ -71,6 +81,7 @@ body {
     text-align: justify;
 }
 
+/* ediçao o que é
 .section_oqueé {
     text-align: center;
     width: 50%;
@@ -83,22 +94,26 @@ body {
     text-decoration: none;
 }
 
+/* ediçao para que serve 
 .div_pqserve {
     display: flex;
     text-align: center;
 }
 
+/* ediçao das diferenças 
 .text_diferença {
     text-align: justify;
     text-align: center;
 }
 
+/* ediçao dos metodos 
 #title_metodos {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top:80px;
 }
 
+/* ediçao vestibular 
 .section_vestibular:hover {
     text-align: center;
     width: 50%;
@@ -115,7 +130,7 @@ body {
 box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
 }
 
-
+/* ediçao do gif
 #section_gif {
     text-align: center;
     text-align: justify;
@@ -125,10 +140,12 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     margin-left: 380px;
 }
 
+/* ediçao footer
 #footer {
     height: 550px;
 }
 
+/* ediçao noticias 
 .section_noticias {
     -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
@@ -140,6 +157,7 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     margin-left: 15px;
 }
 
+/* ediçao categorias 
 .title_categorias {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
     background-color: #32425b;
@@ -155,49 +173,59 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     margin-right: 550px;
 }
 
+/* ediçao titulo das categorias 
 .title_categorias:hover {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
     background-color: #32425b;
 }
 
+/* ediçao titulo das categorias 
 .title_categorias:active {
     position: relative;
     top: 1px;
 }
 
+/* ediçao imagem text
 .img_textN {
     display: flex;
 }
 
+/* ediçao imagem das noticias 
 .img_noticias {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
+ 
+/*ediçao texto noticias
 .text_noticias {
     padding-left: 15px;
     color: gray;
 }
 
+/* ediçao icone 
 .icon_text {
     display: flex;
 }
 
+/* ediçao imagens estrela 
 .img_stars {
     padding-top: 18px;
     padding-left: 10px;
 }
 
+/* ediçao texto date 
 .text_date {
     padding-left: 10px;
     color: gray;
 }
 
+/* ediçao texto publicado
 .text_publicado {
     padding-left: 205px;
     padding-bottom: 15px;
 }
 
+/* ediçao section vestibular
 .section_vestibular {
     margin: auto;
     margin-top: 20px;
@@ -209,6 +237,7 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     display: flex;
 }
 
+/*ediçao do background 
 #section_background {
     background-image: url("../../../images/Vestibular/vestibularbanner.png");
     margin-top: -115px;
@@ -217,11 +246,13 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     padding-bottom: 280px;
 }
 
+/*ediçao do texto central
 #texto-central {
     padding-top: 200px;
     text-align: center;
 }
 
+/*ediçao do titulo 
 
 #title_vestibular{
     margin: auto;
@@ -234,3 +265,5 @@ box-shadow: -1px 1px 14px -2px rgba(0,0,0,0.75);
     display: flex;
     text-align: justify;
 }
+
+/*final das ediçoes do css
