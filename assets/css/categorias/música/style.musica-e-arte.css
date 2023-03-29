@@ -110,12 +110,6 @@ h1 {
     color: gray;
 }
 
-.title_categorias {
-    text-decoration: none;
-    color: black;
-    font-family: arial;
-}
-
 #article_comentarios {
     display: flex;
     justify-content: space-between;
@@ -215,11 +209,6 @@ h1 {
     color: gray;
 }
 
-.title_categorias {
-    text-decoration: none;
-    color: black;
-    font-family: arial;
-}
 
 a {
     text-decoration: none;
