@@ -137,6 +137,12 @@ h1 {
     margin-right: 45px;
 }
 
+.borda_comentarios {
+    resize: none;
+    margin-bottom: 20px;
+    margin-left: 45px;
+}
+
 .title_categorias {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
     background-color: #32425b;

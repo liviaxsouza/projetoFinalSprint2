@@ -184,6 +184,12 @@ iframe {
     padding-bottom: 20px;
 }
 
+.borda_comentarios {
+    resize: none;
+    margin-bottom: 20px;
+    margin-left: 45px;
+}
+
 #section_credits {
     margin-left: 365px;
     font-family: arial;
