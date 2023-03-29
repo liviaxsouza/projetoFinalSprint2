@@ -100,7 +100,7 @@ h1 {
 }
 
 .img_stars {
-    padding-top: 18px;
+    padding-top: 1px;
     padding-left: 10px;
 }
 
@@ -145,4 +145,21 @@ h1 {
 
 a {
     text-decoration: none;
+}
+
+iframe {
+    bottom: 0%;
+    margin-bottom: -5px;
+}
+
+* {
+    margin: 0;
+}
+
+#text_credits {
+    color: gray;
+    font-size: 13px;
+    font-family: arial;
+    padding: 3px;
+    padding-left: 0px;
 }
