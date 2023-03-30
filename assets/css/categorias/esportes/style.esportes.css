@@ -315,6 +315,10 @@ a {
     display: flex;
 }
 
+.depoimento_name {
+    padding-left: 5px;
+}
+
 .depoimento_time {
     padding-top: 11px;
     padding-left: 5px;
