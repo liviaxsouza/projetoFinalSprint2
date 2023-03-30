@@ -276,3 +276,23 @@ body {
 a {
     text-decoration: none;
 }
+
+#article_comentarios {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.class_h3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: arial;
+}
+
+.borda_comentarios {
+    margin-bottom: 22.5px;
+    resize: none;
+}
