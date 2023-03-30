@@ -243,11 +243,6 @@ li:hover {
     color: black;
 }
 
-#felipe {
-    display: flex;
-    margin-top: 461px;
-}
-
 #button_principal {
     background: linear-gradient(to bottom, #32425b 5%, #32425b 100%);
     border-radius: 42px;
@@ -276,4 +271,8 @@ li:hover {
 
 #title_confira {
     padding-top: 50px;
+}
+
+#img_aside {
+    padding: 20%;
 }
